@@ -1,0 +1,3640 @@
+{
+    "Primaria": {
+        "0": {
+            "materia": "Comunicación",
+            "0": {
+                "activo": "0",
+                "titulo": "Comunicación 1",
+                "color": "#c60059",
+                "grado": "1",
+                "curso": "comunicacion",
+                "portada": "comunicacion1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com-act-1",
+                        "portada": "com-act-1.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Verbal",
+                        "enlace": "com-rv-1",
+                        "portada": "com-rv-1.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com-txt-1",
+                        "portada": "com-txt-1.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - ¡Volvemos al colegio!",
+                        "temas": {
+                            "0": "Las vocales",
+                            "1": "La canción"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - ¡La salud!",
+                        "temas": {
+                            "0": "Las rimas",
+                            "1": "La letra P",
+                            "2": "La letra M",
+                            "3": "La letra L",
+                            "4": "El sustantivo común y propio"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - ¡La familia–unión!",
+                        "temas": {
+                            "0": "La letra T",
+                            "1": "La letra D",
+                            "2": "La letra N",
+                            "3": "La sílaba"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - ¡Cuido mi alimentación!",
+                        "temas": {
+                            "0": "La poesía",
+                            "1": "La letra F",
+                            "2": "La letra B",
+                            "3": "La letra V",
+                            "4": "La letra R",
+                            "5": "El género del sustantivo: femenino y masculino",
+                            "6": "El uso de la B y V"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - ¡La patria-Identidad nacional! ",
+                        "temas": {
+                            "0": "La letra G",
+                            "1": "El número del sustantivo: singular y plural",
+                            "2": "El uso de la ca, co, cu, que, qui"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - ¡A pasear y las vacaciones a disfrutar!",
+                        "temas": {
+                            "0": "La descripción de un animal",
+                            "1": "El ratón Pérez ",
+                            "2": "La letra H",
+                            "3": "La letra J",
+                            "4": "La letra Ll",
+                            "5": "La letra Ñ",
+                            "6": "El adjetivo calificativo",
+                            "7": "Descripción de un animal: El patito travieso"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - El medio ambiente",
+                        "temas": {
+                            "0": "Comprensión lectora",
+                            "1": "El uso de la za, ce, ci, zo y zu y el plural Z - ces"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Las costumbres peruanas",
+                        "temas": {
+                            "0": "Comprensión lectora: Amigas del huerto",
+                            "1": "El cuento",
+                            "2": "Las palabras con Pr",
+                            "3": "Las palabras con Br",
+                            "4": "El verbo ",
+                            "5": "El cuento"
+                        }
+                    },
+                    "8": {
+                        "id": "8",
+                        "nombre": "Unidad 9 - ¡Todos somos Defensa civil!",
+                        "temas": {
+                            "0": "Las palabras con Bl",
+                            "1": "Las palabras con Pl",
+                            "2": "Las palabras con Gr y Gl",
+                            "3": "Las palabras con Cl",
+                            "4": "Las palabras con Cr",
+                            "5": "La oración: sujeto y predicado",
+                            "6": "Los sinónimos y antónimos"
+                        }
+                    },
+                    "9": {
+                        "id": "9",
+                        "nombre": "Unidad 10 - Tiempo de unión y amor en familia",
+                        "temas": {
+                            "0": "La Navidad de Isidro",
+                            "1": "Las palabras con Tr y Tl",
+                            "2": "Las palabras con Fr y Fl",
+                            "3": "Las palabras con Dr",
+                            "4": "El uso de los signos de interrogación y exclamación"
+                        }
+                    }
+                }
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Comunicación 2",
+                "color": "#d92f2a",
+                "grado": "2",
+                "curso": "comunicacion",
+                "portada": "comunicacion2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com-act-2",
+                        "portada": "com-act-2.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Verbal",
+                        "enlace": "com-rv-2",
+                        "portada": "com-rv-2.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com-txt-2",
+                        "portada": "com-txt-2.jpg"
+                    }
+                },
+                "unidades": {
+                    "1": {
+                        "id": "0",
+                        "nombre": "Unidad 1 -¡Volvemos al colegio! Amistades - reencuentro  ",
+                        "temas": {
+                            "0": "Las clases de sustantivos",
+                            "1": "La mayúscula y el punto"
+                        }
+                    },
+                    "0": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - La Salud",
+                        "temas": {
+                            "0": "La narración de un cuento ",
+                            "1": "El artículo o determinante",
+                            "2": "El uso de la mp y la mb",
+                            "3": "Narramos un cuento",
+                            "4": "La rima"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - En Familia todo es más divertido ",
+                        "temas": {
+                            "0": "Los antónimos ",
+                            "1": "La descripción de personas",
+                            "2": "El género y número del sustantivo",
+                            "3": "El uso de la ga-gue-gui-go-gu",
+                            "4": "Las rondas"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - ¡Si me alimento bien mi salud es buena!",
+                        "temas": {
+                            "0": "Lectura",
+                            "1": "La familia de palabras",
+                            "2": "El mapa semántico",
+                            "3": "La descripción de un animal",
+                            "4": "El adjetivo calificativo"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - La patria y la identidad nacional",
+                        "temas": {
+                            "0": "La declamación",
+                            "1": "La concordancia sustantivo y adjetivo",
+                            "2": "Redacción: La estructura de un poema",
+                            "3": "Los refranes"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Las vacacions de medio año",
+                        "temas": {
+                            "1": "El tema del texto",
+                            "2": "Los conectores de secuencia y adición",
+                            "3": "La exposición: Los animales",
+                            "4": "Los pronombres personales, posesivos y demostrativos"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Cuidemos el medio ambiente en el que vivimos",
+                        "temas": {
+                            "0": "La serie de palabras",
+                            "1": "El verbo"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - ¡Las costumbres peruanas!",
+                        "temas": {
+                            "0": "Las ideas principales",
+                            "1": "El verbo en presente, pasado y futuro",
+                            "2": "El uso de la ge, gi y je, ji",
+                            "3": "Las analogías"
+                        }
+                    },
+                    "8": {
+                        "id": "8",
+                        "nombre": "Unidad 9 - ¡Tarea de todos, siempre organizados!",
+                        "temas": {
+                            "0": "El sujeto y el predicado ",
+                            "1": "Los signos de interrogación y exclamación",
+                            "2": "Realizamos un texto instructivo"
+                        }
+                    },
+                    "9": {
+                        "id": "9",
+                        "nombre": "Unidad 10 - Navidad fin de año ",
+                        "temas": {
+                            "0": "Las ideas principales"
+                        }
+                    }
+                }
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Comunicación 3",
+                "color": "#0099b8",
+                "grado": "3",
+                "curso": "comunicacion",
+                "portada": "comunicacion3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com-act-3",
+                        "portada": "com-act-3.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Verbal",
+                        "enlace": "com-rv-3",
+                        "portada": "com-rv-3.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com-txt-3",
+                        "portada": "com-txt-3.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - ¡Qué emocionante es volver a la escuela!",
+                        "temas": {
+                            "0": "El cuento",
+                            "1": "El sustantivo",
+                            "2": "El uso de punto y mayúscula ",
+                            "3": "El propósito de un cuento ",
+                            "4": "Los textos literarios y no literarios "
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - ¡Practico hábilos saludables y me siento feliz!",
+                        "temas": {
+                            "0": "Descripción de una persona",
+                            "1": "El mapa semántico",
+                            "2": "El artículo",
+                            "3": "La sílaba tónica y átona",
+                            "4": "Los géneros literarios"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Unidos somos una gran familia ",
+                        "temas": {
+                            "0": "La fábula",
+                            "1": "La descripción de un animal",
+                            "2": "El adjetivo calificativo y el determinante demostrativo",
+                            "3": "El propósito de una fábula",
+                            "4": "Las retahílas"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - ¡Crezco sano porque mi alimentación es balanceada!",
+                        "temas": {
+                            "0": "La leyenda",
+                            "1": "El diálogo",
+                            "2": "Los pronombres personales y posesivos",
+                            "3": "La tilde en palabras interrogativas y exclamativas",
+                            "4": "Los elementos de la leyenda",
+                            "5": "El mito"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - ¡Soy feliz porque soy peruano!",
+                        "temas": {
+                            "0": "La anécdota",
+                            "1": "El verbo",
+                            "2": "El diptongo y el hiato",
+                            "3": "La estructura de una anécdota"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - ¡Recargamos baterías para seguir aprendiendo!",
+                        "temas": {
+                            "0": "La noticia",
+                            "1": "La conjugación verbal",
+                            "2": "La coma enumerativa y vocativa",
+                            "3": "Asamblea en la carpintería"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - ¡Todos somos Defensa Civil!",
+                        "temas": {
+                            "0": "El texto instructivo",
+                            "1": "La oración según la intención del hablante",
+                            "2": "El uso de la «b» y la «v»",
+                            "3": "El texto instructivo"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Mi planeta, mi responsabilidad",
+                        "temas": {
+                            "0": "El texto informativo",
+                            "1": "El texto informativo",
+                            "2": "La exposición",
+                            "3": "La oración bimembre: núcleo y modificadores del sujeto",
+                            "4": "El uso de la «c» y la «z»",
+                            "5": "El caligrama"
+                        }
+                    },
+                    "8": {
+                        "id": "8",
+                        "nombre": "Unidad 9 - ¡Vivo en un país maravilloso!",
+                        "temas": {
+                            "0": "La décima",
+                            "1": "La declamación",
+                            "2": "El predicado",
+                            "3": "El uso de la «g» y la «j»",
+                            "4": "El verso y la rima"
+                        }
+                    }
+                }
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Comunicación 4",
+                "color": "#5f1e76",
+                "grado": "4",
+                "curso": "comunicacion",
+                "portada": "comunicacion4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com-act-4",
+                        "portada": "com-act-4.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Verbal",
+                        "enlace": "com-rv-4",
+                        "portada": "com-rv-4.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com-txt-4",
+                        "portada": "com-txt-4.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Empezamos con entusiasmo ",
+                        "temas": {
+                            "0": "Lectura: La verdadera autoridad de un rey",
+                            "1": "La comunicación",
+                            "2": "La sílaba tónica",
+                            "3": "El cuento",
+                            "4": "El propósito de un cuento",
+                            "5": "La prosa y el verso"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - ¡Cuidemos nuestra salud para sentirnos bien!",
+                        "temas": {
+                            "0": "Lectura: El gigante egoísta",
+                            "1": "El mapa semántico",
+                            "2": "El debate",
+                            "3": "Las palabras graves",
+                            "4": "Las palabras esdrújulas"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Compartimos en familia momentos agradables",
+                        "temas": {
+                            "0": "Lectura: El ganso de oro",
+                            "1": "El diptongo y el hiato",
+                            "2": "Los refranes"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - ¡Comer saludable es una vida sana! ",
+                        "temas": {
+                            "0": "Los adjetivos",
+                            "1": "Los determinantes"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - ¡Valoramos lo nuestro! ",
+                        "temas": {
+                            "0": "Lectura: Reseña de Ollantay",
+                            "1": "Una infografía",
+                            "2": "Los signos de interrogación y de exclamación",
+                            "3": "La rima consonante"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - ¡Las vacaciones de medio año!",
+                        "temas": {
+                            "0": "Los puntos: tipos",
+                            "1": "La tradición"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - A cuidar nuestro planeta",
+                        "temas": {
+                            "0": "La mesa redonda",
+                            "1": "La forma simple y compuesta del verbo",
+                            "2": "La coma enumerativa y la explicativa",
+                            "3": "El caligrama",
+                            "4": "Las décimas"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - ¡Las costumbres peruanas! ",
+                        "temas": {
+                            "0": "El cuadro de doble entrada"
+                        }
+                    },
+                    "8": {
+                        "id": "8",
+                        "nombre": "Unidad 9 - ¡Navidad, fin de año!",
+                        "temas": {
+                            "0": "El diagrama de árbol",
+                            "1": "El teatro"
+                        }
+                    }
+                }
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Comunicación 5",
+                "color": "#91b715",
+                "grado": "5",
+                "curso": "comunicacion",
+                "portada": "comunicacion5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com-act-5",
+                        "portada": "com-act-5.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Verbal",
+                        "enlace": "com-rv-5",
+                        "portada": "com-rv-5.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com-txt-5",
+                        "portada": "com-txt-5.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Volvemos al colegio amistades-reecuentro ",
+                        "temas": {
+                            "0": "El diario",
+                            "1": "El diálogo",
+                            "2": "La comunicación y sus elementos",
+                            "3": "Los diptongos, triptongos y hiatos",
+                            "4": "El diario personal",
+                            "5": "El propósito de escribir un diario",
+                            "6": "La prosa y el verso"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Seguimos buenos hábitos para una vida saludable ",
+                        "temas": {
+                            "0": "La historieta",
+                            "1": "El mapa semántico",
+                            "2": "La narración de una noticia",
+                            "3": "El sustantivo",
+                            "4": "Las reglas generales de tildación",
+                            "5": "La historieta",
+                            "6": "El destinatario al escribir una historieta",
+                            "7": "Los géneros literarios"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Valoramos a la familia en unidad ",
+                        "temas": {
+                            "0": "El folleto",
+                            "1": "La descripción de un lugar de excursión del Perú",
+                            "2": "El adjetivo calificativo y sus grados",
+                            "3": "La tildación de monosílabos",
+                            "4": "El folleto",
+                            "5": "El propósito de un folleto",
+                            "6": "El género narrativo: elementos y estructura",
+                            "7": "Elaboramos un folleto"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Nos alimentamos siguiendo una dieta equilibrada ",
+                        "temas": {
+                            "0": "La entrevista",
+                            "1": "El cuadro resumen",
+                            "2": "La mesa redonda",
+                            "3": "Los determinantes numerales e indefinidos",
+                            "4": "La coma explicativa y la de conectores",
+                            "5": "La entrevista II",
+                            "6": "Los elementos de una entrevista",
+                            "7": "El género literario: figuras literarias"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - La patria: identidad nacional ",
+                        "temas": {
+                            "0": "La infografía",
+                            "1": "La exposición",
+                            "2": "Los pronombres personales, enclíticos y relativos",
+                            "3": "Los paréntesis y las comillas",
+                            "4": "La infografía II",
+                            "5": "La estructura de una infografía",
+                            "6": "Las figuras literarias: metáfora, símil y epíteto",
+                            "7": "Elaboramos un afiche"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - El Día del Niño peruano ",
+                        "temas": {
+                            "0": "El poema",
+                            "1": "El esquema de llaves",
+                            "2": "La declamación",
+                            "3": "Las formas verbales simples y compuestas",
+                            "4": "Los dos puntos y los puntos suspensivos",
+                            "5": "El poema",
+                            "6": "La estructura de un poema",
+                            "7": "Las figuras literarias: onomatopeya, hipérbaton e hipérbole"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Protejamos el medio ambiente, cuidamos nuestro hogar ",
+                        "temas": {
+                            "0": "El texto expositivo",
+                            "1": "El informe oral",
+                            "2": "La preposición: clases",
+                            "3": "La «v», «b» y «y» en los verbos"
+                        }
+                    }
+                }
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Comunicación 6",
+                "color": "#2f1b6d",
+                "grado": "6",
+                "curso": "comunicacion",
+                "portada": "comunicacion6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com-act-6",
+                        "portada": "com-act-6.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Verbal",
+                        "enlace": "com-rv-6",
+                        "portada": "com-rv-6.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com-txt-6",
+                        "portada": "com-txt-6.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Juntos en primaria por última vez ",
+                        "temas": {
+                            "0": "El cuento de terror",
+                            "1": "La narración de cuentos",
+                            "2": "La comunicación y sus elementos",
+                            "3": "El uso del punto y los dos puntos",
+                            "4": "Escribimos un cuento de terror",
+                            "5": "El lenguaje literario y no literario"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Estamos sanos, estamos felices ",
+                        "temas": {
+                            "0": "El artículo de divulgación científica",
+                            "1": "El mapa conceptual",
+                            "2": "La exposición de artículos de divulgación científica",
+                            "3": "El sustantivo",
+                            "4": "Las reglas generales de tildación",
+                            "5": "Escribimos un artículo de divulgación",
+                            "6": "El destinatario de un artículo de divulgación",
+                            "7": "El género narrativo: tipos de narrador"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 -  Familia: donde nuestra histioria comienza ",
+                        "temas": {
+                            "0": "La entrevista",
+                            "1": "El diálogo",
+                            "2": "El adjetivo y sus grados",
+                            "3": "La tildación en monosílabos, diptongos y hiatos",
+                            "4": "Escribimos una entrevista de personalidad",
+                            "5": "El propósito de una entrevista",
+                            "6": "La estructura narrativa"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Crecemos saludablemente ",
+                        "temas": {
+                            "0": "El texto argumentativo",
+                            "1": "El cuadro de doble entrada",
+                            "2": "La argumentación",
+                            "3": "Los determinantes numerales e indefinidos",
+                            "4": "La tilde diacrítica",
+                            "5": "Escribimos un texto argumentativo",
+                            "6": "Los puntos a tomar en cuenta para una argumentación",
+                            "7": "El género lírico: versificación"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - De ser como soy me alegro, del Perú para el mundo entero ",
+                        "temas": {
+                            "0": "La guía turística",
+                            "1": "La exposición acerca de un lugar turístico",
+                            "2": "Los pronombres personales, enclíticos y relativos",
+                            "3": "Las palabras con «c», «s», «z» y «x»",
+                            "4": "Escribimos una guía turística",
+                            "5": "La estructura de una guía turística",
+                            "6": "El género dramático: estructura y elementos"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Hacemos diferencia ejerciendo nuestros derechos con conciencia ",
+                        "temas": {
+                            "0": "La infografía",
+                            "1": "La ficha de resumen",
+                            "2": "La explicación de una infografía",
+                            "3": "Las formas simples y compuestas de los verbos",
+                            "4": "El uso del guion y la raya",
+                            "5": "Elaboramos una infografía",
+                            "6": "La estructura de una infografía",
+                            "7": "El género dramático: los personajes"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Protegemos el medio ambiente, cuidamos el futuro ",
+                        "temas": {
+                            "0": "El texto instructivo",
+                            "1": "Dramatizar un hecho histórico",
+                            "2": "La preposición: clases",
+                            "3": "Las palabras juntas o separadas",
+                            "4": "El texto instructivo",
+                            "5": "Los elementos del texto instructivo",
+                            "6": "Las figuras literarias: la personificación"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Las costumbres peruanas ",
+                        "temas": {
+                            "0": "Las figuras literarias: la personificación",
+                            "1": "El diagrama de árbol",
+                            "2": "La declamación ",
+                            "3": "El adverbio: tiempo y cantidad",
+                            "4": "Los dos puntos y el uso de las comillas",
+                            "5": "El texto lírico. El poema",
+                            "6": "La correcta escritura y rima de un poema",
+                            "7": "Las figuras literarias: la metáfora y el símil"
+                        }
+                    },
+                    "8": {
+                        "id": "8",
+                        "nombre": "Unidad 9 -  Defensa Civil: Responsabilidad de todos",
+                        "temas": {
+                            "0": "El texto expositivo con cuadros estadísticos",
+                            "1": "La narración de costumbres",
+                            "2": "El sujeto: núcleo y modificadores",
+                            "3": "El texto expositivo con cuadros estadísticos",
+                            "4": "Cómo presentar un texto expositivo",
+                            "5": "Las figuras literarias: el epíteto y la onomatopeya"
+                        }
+                    },
+                    "9": {
+                        "id": "9",
+                        "nombre": "Unidad 10 - Navidad y Fin de Año, mis fiestas favoritas",
+                        "temas": {
+                            "0": "El esquema de llaves",
+                            "1": "El noticiero en televisión",
+                            "2": "El predicado",
+                            "3": "Las palabras homófonas con «ll», «y» y «b», «v»",
+                            "4": "La crónica periodística",
+                            "5": "Cómo presentar una crónica periodística",
+                            "6": "Las figuras literarias: hipérbaton e hipérbole"
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "materia": "Matemática",
+            "0": {
+                "activo": "1",
+                "titulo": "Matemática 1",
+                "color": "#00b3ce",
+                "grado": "1",
+                "curso": "matematica",
+                "portada": "matematica1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "MAT-1-ACT",
+                        "portada": "MAT-1-ACT.jpg"
+                    },
+                    "1": {
+                        "title": "Actividades Part 2",
+                        "enlace": "MAT-1-ACT-2",
+                        "portada": "MAT-1-ACT-2.jpg"
+                    },
+                    "2": {
+                        "title": "Razonamiento matemático",
+                        "enlace": "MAT-1-RM",
+                        "portada": "MAT-1-RM.jpg"
+                    },
+                    "3": {
+                        "title": "Texto grado",
+                        "enlace": "MAT-1-TEXTO",
+                        "portada": "MAT-1-TEXTO.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Juntos colocaremos cada cosa en su lugar",
+                        "temas": {
+                            "0": "Ubica adelante - atrás",
+                            "1": "Ubica delante de - detrás de",
+                            "2": "Ubica entre",
+                            "3": "Ubica arriba abajo",
+                            "4": "Ubica encima de - debajo de",
+                            "5": "Ubica dentro, afuera y al borde",
+                            "6": "Identifica izquierda y derecha",
+                            "7": "Identifica a la izquierda de y a la derecha de",
+                            "8": "Identifica cerca y lejos",
+                            "9": "Reconoce y traza línea abiertas y cerradas",
+                            "10": "Reconoce y grafica figuras planas",
+                            "11": "Identifica la forma de los cuerpos",
+                            "12": "Representa conjuntos",
+                            "13": "Clasifica según la forma y color",
+                            "14": "Identifica si pertenece o no pertenece",
+                            "15": "Calcula mucho y pocos",
+                            "16": "Interpreta tablas simples"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Trabajemos con armonía",
+                        "temas": {
+                            "0": "Identifica todos, algunos, ninguno",
+                            "1": "Relaciona tantos como, más que, menos que",
+                            "2": "Reconoce los números del 0 al 9 (Nivel 1)",
+                            "3": "Reconoce los números del 0 al 9 (Nivel 2)",
+                            "4": "Ubica los números en la recta numérica",
+                            "5": "Ordena los números en forma ascendente",
+                            "6": "Identifica el anterior, posterior y entre los números",
+                            "7": "Compara y ordena números hasta el 9",
+                            "8": "Calcula sumas hasta 9",
+                            "9": "Calcula sumas en forma vertical y horizontal",
+                            "10": "Calcula suma utilizando la recta numérica",
+                            "11": "Calcula la suma de tres números asociándolos",
+                            "12": "Interpreta situaciones de suma",
+                            "13": "Interpreta restas con números hasta el 9",
+                            "14": "Calcula restas utilizando la recta numérica",
+                            "15": "Interpreta situaciones de resta",
+                            "16": "Mide longitudes con cuartas, pies y pasos",
+                            "17": "Mide longitudes con unidades no usuales",
+                            "18": "Representa datos en la cuadricula",
+                            "19": "Resuelve pirámides numéricas"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Soy responsable con mis obligaciones",
+                        "temas": {
+                            "0": "Reconoce la decena",
+                            "1": "Compara y ordena números hasta el 19",
+                            "2": "Calcula sumas hasta el 19",
+                            "3": "Calcula sumas contando hacia adelante",
+                            "4": "Calcula restas hasta el 19",
+                            "5": "Identifica las partes de una suma",
+                            "6": "Calcula el sumando desconocido"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Orgulloso de mi patria",
+                        "temas": {
+                            "0": "Descompone decenas y unidades",
+                            "1": "Representa números con bloques de decenas y unidades",
+                            "2": "Identifica la relación mayor que y menor que",
+                            "3": "Ordena los números hasta el 99",
+                            "4": "Lee y escribe los números hasta el 99",
+                            "5": "Secuencias numéricas",
+                            "6": "Resuelve problemas con la suma",
+                            "7": "Calcula sumas llevando",
+                            "8": "Resta hasta 99"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - Mejoramos la armonía en nuestro planeta",
+                        "temas": {
+                            "0": "Identificamos los números ordinales",
+                            "1": "Calcula el doble de un número",
+                            "2": "Calcula la mitad de un numero",
+                            "3": "Interpreta problema de triple"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Demuestro una educación basada en la igualdad",
+                        "temas": {
+                            "0": "Reconoce las monedas y los billetes",
+                            "1": "Resuelve problemas utilizando monedas y billetes",
+                            "2": "Identifica los días de la semana ",
+                            "3": "Identifica los meses del año",
+                            "4": "Interpreta problema con días de la semana y meses del año"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Respeto todo lo que nos rodea por medio de una vida saludable",
+                        "temas": {
+                            "0": "Cuenta y escribe centenas",
+                            "1": "Suma y restas centenas",
+                            "2": "Representa números de tres cifras con el ábaco",
+                            "3": "Descompone en centenas decenas y unidades",
+                            "4": "Lee y escribe números de tres cifras",
+                            "5": "Aprende a ver la hora y la media hora",
+                            "6": "Interpreta y representa grafica de barras o rectángulos"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Juntos sumamos amor en navidad",
+                        "temas": {
+                            "0": "Suma llevando decenas y unidades",
+                            "1": "Suma tres números",
+                            "2": "Resta prestando de las decenas",
+                            "3": "Resta prestando de las cecenas",
+                            "4": "Resta realizando prestamos",
+                            "5": "Interpreta probabilidades"
+                        }
+                    }
+                }
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Matemática 2",
+                "color": "#cf1a16",
+                "grado": "2",
+                "curso": "matematica",
+                "portada": "matematica2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "MAT-2-ACTIVIDADES-PART1",
+                        "portada": "MAT-2-ACTIVIDADES-PART1.jpg"
+                    },
+                    "1": {
+                        "title": "Actividades Part 2",
+                        "enlace": "MAT-2-ACTIVIDADES-PAT2",
+                        "portada": "MAT-2-ACTIVIDADES-PAT2.jpg"
+                    },
+                    "2": {
+                        "title": "Razonamiento matemático",
+                        "enlace": "MAT-2-RM",
+                        "portada": "MAT-2-RM.jpg"
+                    },
+                    "3": {
+                        "title": "Texto grado",
+                        "enlace": "MAT-2-TEXTO",
+                        "portada": "MAT-2-TEXTO.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Retornando al colegio. Practicando orden y limpieza",
+                        "temas": {
+                            "0": "Representa conjuntos",
+                            "1": "Identifica pertenece o no pertenece",
+                            "2": "Determina conjuntos",
+                            "3": "Ubica los objetos en los puntos de las cuadriculas ",
+                            "4": "Realiza recorridos ",
+                            "5": "Utiliza pictogramas"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Trabajemos con armonía en clase",
+                        "temas": {
+                            "0": "Ordena forma creciente y decreciente",
+                            "1": "Compara números",
+                            "2": "Reproduce figuras en la cuadricula",
+                            "3": "Traza líneas poligonales y curvas",
+                            "4": "Registra y organiza datos"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Soy responsable en mi vida diaria",
+                        "temas": {
+                            "0": "Representa números de tres cifras con bloques",
+                            "1": "Representa números de tres cifras en el ábaco",
+                            "2": "Descompone en centenas, decenas y unidades",
+                            "3": "Compara números de tres cifras",
+                            "4": "Cuenta centenas decenas y unidades",
+                            "5": "Suma sin llevar",
+                            "6": "Suma llevando la unidades y decenas ",
+                            "7": "Resuelve problemas utilizando sumas",
+                            "8": "Suma asociando",
+                            "9": "Reconoce lados y vértices de un polígono",
+                            "10": "Interpreta gráficos"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Estoy orgulloso de mi país",
+                        "temas": {
+                            "0": "Aprende a multiplicar por 2",
+                            "1": "Aprende a multiplicar por 3",
+                            "2": "Halla el doble",
+                            "3": "Aprende a multiplicar por 4",
+                            "4": "Reconoce rectángulos, cuadrados y círculos",
+                            "5": "Construye gráficos"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - Cuido mi planeta creativamente",
+                        "temas": {
+                            "0": "Multiplica dos cifras por una cifra",
+                            "1": "Resuelve operaciones combinadas",
+                            "2": "Clasificación de polígonos por sus lados",
+                            "3": "Mide perímetros y áreas",
+                            "4": "Utiliza tablas de doble entrada y gráficos de barras o rectángulos"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Con perseverancia aprendo lo mejor de los demás",
+                        "temas": {
+                            "0": "Utiliza la división como reparto exacto",
+                            "1": "Reconoce la familia de operaciones",
+                            "2": "Aprende a dividir entre 2",
+                            "3": "Resuelve problemas dividiendo entre 2 y 3",
+                            "4": "Aprende a dividir entre 4 y 5",
+                            "5": "Aprende a dividir entre 6; 7; 8 y 9",
+                            "6": "Mide en decímetros",
+                            "7": "Utiliza el metro"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Somos felices respetando nuestros derechos",
+                        "temas": {
+                            "0": "Divide como reparto no exacto",
+                            "1": "Divide figuras en partes iguales",
+                            "2": "Identifica la fracción que representa una parte en un todo",
+                            "3": "Compara masas",
+                            "4": "Utilizo el gramo y el kilogramo"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Todos unidos pensando en un futuro mejor",
+                        "temas": {
+                            "0": "Forma el millar",
+                            "1": "Cuenta y escribe millares ",
+                            "2": "Descompone, lee y escribe números de 4 cifras",
+                            "3": "Compara números de 4 cifras",
+                            "4": "Suma números de 4 cifras",
+                            "5": "Resta con minuendo de 4 cifras",
+                            "6": "Utiliza el calendario",
+                            "7": "Lee la hora, media hora, un cuarto de hora que marca el reloj"
+                        }
+                    }
+                }
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Matemática 3",
+                "color": "#fcbf00",
+                "grado": "3",
+                "curso": "matematica",
+                "portada": "matematica3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "MAT-3-ACTIVIDADES-PART1",
+                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                    },
+                    "1": {
+                        "title": "Actividades Part 2",
+                        "enlace": "MAT-3-ACTIVIDADES-PAT2",
+                        "portada": "MAT-3-ACTIVIDADES-PAT2.jpg"
+                    },
+                    "2": {
+                        "title": "Razonamiento matemático",
+                        "enlace": "MAT-3-RM",
+                        "portada": "MAT-3-RM.jpg"
+                    },
+                    "3": {
+                        "title": "Texto grado",
+                        "enlace": "MAT-3-TEXTO",
+                        "portada": "MAT-3-TEXTO.jpg"
+                    },
+                    "4": {
+                        "title": "Solucionario",
+                        "enlace": "MAT-3-SOLUCIONARIO",
+                        "portada": "MAT-3-SOLUCIONARIO.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Nos movemos entre conjuntos",
+                        "temas": {
+                            "0": "Forma y representa conjuntos",
+                            "1": "Clase de conjuntos",
+                            "2": "Determinación de conjuntos: por extensión y comprensión"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Empleamos números hasta de tres cifras",
+                        "temas": {
+                            "0": "Escritura y representación de números de dos y tres cifras",
+                            "1": "Adición y sustracción. Propiedades",
+                            "2": "Multiplicación: propiedades y técnicas operativas",
+                            "3": "Potenciación y división"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Empleamos números hasta de cuatro cifras",
+                        "temas": {
+                            "0": "Números de cuatro cifras, escritura, lectura y representación grafica",
+                            "1": "Descomposición de un número de cuatro cifras",
+                            "2": "Números anteriores y posteriores",
+                            "3": "Compara números naturales de cuatro cifras",
+                            "4": "Adiciones llevando números",
+                            "5": "Sustracciones prestando números",
+                            "6": "Operaciones combinadas de adición y sustracción",
+                            "7": "Divisiones: exacta e inexactas, procedimiento",
+                            "8": "Operaciones combinadas",
+                            "9": "Gráfico de barras"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Empleamos números hasta de cinco cifras",
+                        "temas": {
+                            "0": "Comparación de números",
+                            "1": "Tabla de doble entrada. Gráfico de barras dobles"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - Las partes tienen significado",
+                        "temas": {
+                            "0": "Fracciones",
+                            "1": "Fracciones equivalentes",
+                            "2": "Comparación de fracciones",
+                            "3": "Fracciones de un numero",
+                            "4": "Números decimales: decimas centésimas",
+                            "5": "Comparación",
+                            "6": "Multiplicación y división de decímales",
+                            "7": "Construcción de un gráfico circular o de sectores"
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Algunas cantidades varían proporcionalmente",
+                        "temas": {
+                            "0": "Ubicación de personas u objetos en una cuadricula. ",
+                            "1": "Traslaciones en una cuadricula.",
+                            "2": "Representación de una tabla en un pictograma"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Uno, dos, tres, otra vez",
+                        "temas": {
+                            "0": "Patrones en secuencias numéricas",
+                            "1": "Secuencias graficas"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Los equilibrios y desequilibrios nos inspiran",
+                        "temas": {
+                            "0": "Variables y expresiones algebraicas",
+                            "1": "Ampliación y reducción de figura en una cuadricula",
+                            "2": "Ejes e simetría en figuras planas",
+                            "3": "Unidades de capacidad: el litro, el medio litro, el cuarto de litro"
+                        }
+                    }
+                }
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Matemática 4",
+                "color": "#3bac31",
+                "grado": "4",
+                "curso": "matematica",
+                "portada": "matematica4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "MAT-3-ACTIVIDADES-PART1",
+                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Las partes forman el todo",
+                        "temas": {
+                            "0": "Determinación de conjuntos.",
+                            "1": "Conjunto unitario y, vacío.",
+                            "2": "Relación de inclusión.",
+                            "3": "Intersección de conjuntos.",
+                            "4": "Unión de conjuntos.",
+                            "5": "Diferencia de conjuntos.",
+                            "6": "Cardinalidad de conjuntos.",
+                            "7": "Ideas geométricas básicas: punto, recta y plano.",
+                            "8": "Conjunto de datos y tabla de frecuencias. Frecuencias relativas porcentuales."
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Los números en el cálculo cotidiano",
+                        "temas": {
+                            "0": "Escritura y lectura de números hasta 9 999.",
+                            "1": "Valor de posición.",
+                            "2": "Descomposición de un número.",
+                            "3": "Comparación de números.",
+                            "4": "Números anteriores y posteriores.",
+                            "5": "Adición y Sustracción de números naturales.",
+                            "6": "Propiedades de la igualdad.",
+                            "7": "La multiplicación.",
+                            "8": "La potenciación.",
+                            "9": "División exacta. División inexacta.",
+                            "10": "Medición del tiempo.",
+                            "11": "Ángulos. Medición de ángulos",
+                            "12": "Trazado de rectas perpendiculares.",
+                            "13": "Clasificación de ángulos.",
+                            "14": "Diagrama de segmentos.",
+                            "15": "Gráfico de barras simples."
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Los números en cálculos mayores",
+                        "temas": {
+                            "0": "Escritura y lectura de números hasta 99 999.",
+                            "1": "Valor de posición y descomposición de un número.",
+                            "2": "Comparación de números naturales. ",
+                            "3": "Escritura y lectura de números hasta 999 999.",
+                            "4": "Valor de posición y descomposición de un número.",
+                            "5": "El sucesor y el antecesor de un número.",
+                            "6": "Adición, sustracción, multiplicación y división.",
+                            "7": "Ubicación de puntos en el plano cartesiano.",
+                            "8": "Construcción de figuras en el plano cartesiano.",
+                            "9": "Gráfico de barras compuestas."
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Empleamos propiedades de los números",
+                        "temas": {
+                            "0": "Múltiplos de 2.",
+                            "1": "Múltiplos de 3.",
+                            "2": "Múltiplos de 4.",
+                            "3": "Múltiplos de 5.",
+                            "4": "Número limitado de múltiplos.",
+                            "5": "Divisores de un número.",
+                            "6": "Divisibilidad.",
+                            "7": "Mitad, tercia, cuarta y quinta de números naturales.",
+                            "8": "Mínimo común múltiplo.",
+                            "9": "Polígonos. Clasificación de los polígonos.",
+                            "10": "Triángulos: clasificación y perímetro.",
+                            "11": "El metro, el decímetro, el centímetro.",
+                            "12": "Gráfico circular o de sectores."
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - ¿Qué hay entre dos números naturales?",
+                        "temas": {
+                            "0": "Fracciones decimales.",
+                            "1": "Fracción propia.",
+                            "2": "Fracción impropia y número mixto.",
+                            "3": "Fracciones equivalentes.",
+                            "4": "Simplificación de fracciones.",
+                            "5": "Adición, Sustracción, Multiplicación y División de fracciones.",
+                            "6": "Décimas. Centésimas. Milésimas.",
+                            "7": "Números decimales equivalentes.",
+                            "8": "Adición, Sustracción, Multiplicación y División de números decimales.",
+                            "9": "El peso. El kilogramo.",
+                            "10": "Clasificación de cuadriláteros.",
+                            "11": "Perímetro de polígonos.",
+                            "12": "Gráfico lineal. Pictograma."
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Las equivalencias, otra cara de los mismo",
+                        "temas": {
+                            "0": "Razones y proporciones. ",
+                            "1": "Regla de tres simple directa. ",
+                            "2": "Regla de tres simple inversa.",
+                            "3": "Gráfico de la variación proporcional directa. ",
+                            "4": "Gráfico de la variación proporcional inversa.",
+                            "5": "Área de las regiones poligonales: Rectángulo, Cuadrado, Rombo, Triángulo.",
+                            "6": "Experimentos determinísticos y no determinísticos.",
+                            "7": "Experimento aleatorio y espacio muestral."
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - ¿Descubrimos reglas de formación",
+                        "temas": {
+                            "0": "Secuencias numéricas.",
+                            "1": "Analogías numéricas.",
+                            "2": "Distribuciones numéricas.",
+                            "3": "Distribuciones gráficas.",
+                            "4": "Longitud de la circunferencia.",
+                            "5": "Área del círculo.",
+                            "6": "Sucesos o eventos."
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Lo conocido se relaciona con lo desconocido",
+                        "temas": {
+                            "0": "Igualdades absolutas y relativas. ",
+                            "1": "Ecuaciones de primer grado con una incógnita.",
+                            "2": "Conjunto solución de una ecuación. ",
+                            "3": "Desigualdades absolutas y relativas. ",
+                            "4": "Inecuaciones de primer grado con una variable. ",
+                            "5": "Desigualdades no estrictas",
+                            "6": "Sólidos geométricos: poliedros y sólidos redondos. ",
+                            "7": "Unidad de capacidad",
+                            "8": "Probabilidad de un suceso"
+                        }
+                    }
+                }
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Matemática 5",
+                "color": "#6e348a",
+                "grado": "5",
+                "curso": "matematica",
+                "portada": "matematica5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "MAT-3-ACTIVIDADES-PART1",
+                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                    },
+                    "1": {
+                        "title": "Texto",
+                        "enlace": "MAT-3-ACTIVIDADES-PART1",
+                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                    },
+                    "2": {
+                        "title": "Razonamiento",
+                        "enlace": "MAT-3-ACTIVIDADES-PART1",
+                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Las partes forman el todo",
+                        "temas": {
+                            "0": "Determinación de conjuntos.",
+                            "1": "Relación de inclusión. ",
+                            "2": "Conjuntos disjuntos.",
+                            "3": "Conjunto Universal.",
+                            "4": "Conjuntos finitos o infinitos. ",
+                            "5": "Intersección.",
+                            "6": "Unión. ",
+                            "7": "Diferencia de conjuntos.",
+                            "8": "Diferencia simétrica. ",
+                            "9": "Producto cartesiano. Relaciones.",
+                            "10": "Punto, recta y plano",
+                            "11": "Segmento de recta.",
+                            "12": "Rayo y semirrecta. ",
+                            "13": "Rectas secantes. Rectas paralelas.",
+                            "14": "Unidades de longitud.",
+                            "15": "Unidad de observación y observaciones o datos.",
+                            "16": "Recolección de datos: Fuentes de Información, Censo y encuesta."
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Sabemos algo cuando lo expresamos con números",
+                        "temas": {
+                            "0": "Sistema de numeración decimal.",
+                            "1": "Valor de posición y descomposición polinómica.",
+                            "2": "Lectura de números. Representación literal de un número. Número capicúa.",
+                            "3": "Números romanos",
+                            "4": "Sistema binario. ",
+                            "5": "Sistema ternario. ",
+                            "6": "Sistemas de bases 4; 5; 6; ... .",
+                            "7": "Operaciones con números Naturales",
+                            "8": "Región angular y ángulo. Medición de ángulos.",
+                            "9": "Presentación de datos. Tablas estadísticas."
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - A veces la división se puede evitar",
+                        "temas": {
+                            "0": "Múltiplos de un número. ",
+                            "1": "Divisores de un número.",
+                            "2": "Números primos y compuestos.",
+                            "3": "Divisibilidad. ",
+                            "4": "Mitad, tercia, cuarta, quinta de números naturales. ",
+                            "5": "Descomposición de un número en factores primos. Mínimo común múltiplo.",
+                            "6": "Máximo común divisor.",
+                            "7": "Rectas perpendiculares. Trazado de rectas paralelas. Trazado de rectas perpendiculares.",
+                            "8": "Reconocimiento de ángulos rectos, agudos, llanos y obtusos,",
+                            "9": "Gráfico de barras simples. Gráfico de barras dobles."
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Las situaciones opuestas y los signos",
+                        "temas": {
+                            "0": "Números enteros. ",
+                            "1": "Comparación. Valor absoluto.",
+                            "2": "Reducción de números enteros. Adición, Sustracción, Multiplicación, División y Potenciación de números enteros.",
+                            "3": "Producto de potencias de bases iguales.",
+                            "4": "Cociente de potencias de bases iguales.",
+                            "5": "Orden operativo.",
+                            "6": "Descripción y clasificación de polígonos.",
+                            "7": "El polígono convexo y no convexo.",
+                            "8": "Diagonales de un polígono.",
+                            "9": "Descomposición del polígono en triángulos.",
+                            "10": "Suma de ángulos internos.",
+                            "11": "Perímetro de una región poligonal.",
+                            "12": "Gráfico lineal. Gráfico circular. Pictograma."
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - El reparto no siempre es exacto",
+                        "temas": {
+                            "1": "Fracciones.",
+                            "0": "Fracciones impropias y números mixtos.",
+                            "2": "Fracciones equivalentes.",
+                            "3": "Simplificación de fracciones.",
+                            "4": "Reducción de fracciones a su mínimo común denominador.",
+                            "5": "Adición, Sustracción, Multiplicación y División de fracciones.",
+                            "6": "Orden Operativo.",
+                            "7": "Lectura y escritura de números decimales.",
+                            "8": "Fracción decimal y número decimal.",
+                            "9": "Adición, Sustracción, Multiplicación y División de números decimales.",
+                            "10": "Unidades de masa del S.I.",
+                            "11": "Suma de medidas de ángulos de un triángulo.",
+                            "12": "Ángulo exterior.",
+                            "13": "Triángulos.",
+                            "14": "Datos estadísticos y tabla de frecuencias."
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Comparamos para elegir lo mejor",
+                        "temas": {
+                            "0": "Comparación por diferencia.",
+                            "1": "Comparación por cociente. ",
+                            "2": "Razón de proporcionalidad directa.",
+                            "3": "Regla de tres.",
+                            "4": "Tantos por ciento como razones. Razones como tantos por ciento.",
+                            "5": "Tanto por ciento de un número.",
+                            "6": "Cuadriláteros: descripción y clasificación.",
+                            "7": "Suma de las medidas de los ángulos de un cuadrilátero.",
+                            "8": "Ángulos opuestos de un paralelogramo.",
+                            "9": "Ángulos consecutivos de un paralelogramo.",
+                            "10": "La media aritmética de datos simples.",
+                            "11": "La media aritmética cuando hay datos con frecuencias."
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Los números exigen igual trato",
+                        "temas": {
+                            "0": "Secuencias numéricas. Patrones. ",
+                            "1": "Analogías numéricas",
+                            "2": "Distribuciones numéricas. ",
+                            "3": "Distribuciones gráficas.",
+                            "4": "Área de regiones: Rectángulo, Cuadrado, Romboide, Triángulo, Rombo y Trapecio.",
+                            "5": "Trazos en el plano cartesiano.",
+                            "6": "Experimentos aleatorios. Espacio muestral. Sucesos o eventos."
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Las tres posibilidades en las comparaciones",
+                        "temas": {
+                            "0": "Adición, Sustracción, Multiplicación, División, Potenciación y Radicación de monomios.",
+                            "1": "Adición, Sustracción, Multiplicación y División de polinomios.",
+                            "2": "Ecuaciones",
+                            "3": "Inecuaciones. Conjunto solución.",
+                            "4": "Prisma: Área lateral, total y volumen.",
+                            "5": "Cilindro: Área lateral, total y volumen",
+                            "6": "Cálculo de probabilidades."
+                        }
+                    }
+                }
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Matemática 6",
+                "color": "#fcbf00",
+                "grado": "6",
+                "curso": "matematica",
+                "portada": "matematica6.jpg",
+                "libros": {},
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Unidad 1 - Las proposiciones en la comunicación matemática",
+                        "temas": {
+                            "0": "Proposiciones simples y compuestas",
+                            "1": "Simbolización de proposiciones compuestas",
+                            "2": "Evaluación de esquemas moleculares",
+                            "3": "Unión",
+                            "4": "Intersección",
+                            "5": "Diferencia y diferencia simétrica",
+                            "6": "Resuelve problemas con dos y tres conjuntos",
+                            "7": "Producto cartesiano y relaciones",
+                            "8": "Ángulos",
+                            "9": "El transportador, construcción de ángulos y rectas",
+                            "10": "Congruencia y clasificación de ángulos",
+                            "11": "Complemento y suplemento de ángulos",
+                            "12": "Problemas con ángulos",
+                            "13": "Recolección de datos",
+                            "14": "Tabla de frecuencias"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Unidad 2 - Los números nos facilitan la vida",
+                        "temas": {
+                            "0": "Sistema de numeración decimal y sistema posicional de numeración",
+                            "1": "Otros sistemas de numeración",
+                            "2": "Representación literal de los números e identificación de números capicúas",
+                            "3": "Descomposición polinómica",
+                            "4": "Cambio de base",
+                            "5": "Números romanos",
+                            "6": "Adición y sustracción",
+                            "7": "Multiplicación y división",
+                            "8": "Potencia y radicación",
+                            "9": "Operaciones combinadas",
+                            "10": "Polígonos",
+                            "11": "Triángulos",
+                            "12": "Cuadriláteros",
+                            "13": "Paralelogramos",
+                            "14": "Trapecios y trapezoides",
+                            "15": "Unidades de longitud",
+                            "16": "Gráfico de barras simples",
+                            "17": "Gráfico de barras dobles"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Unidad 3 - Los números tienen propiedades ",
+                        "temas": {
+                            "0": "Múltiplos de un número natural",
+                            "1": "Divisores de un número natural",
+                            "2": "Números primos y compuestos",
+                            "3": "Reglas de divisibilidad",
+                            "4": "Mitad y tercia de un número natural",
+                            "5": "Cuarta y quinta de un número natural",
+                            "6": "Cuarta y quinta de un número natural",
+                            "7": "Cantidad de divisores de un número natural",
+                            "8": "Mínimo común múltiplo",
+                            "9": "Máximo común divisor",
+                            "10": "Unidades de tiempo",
+                            "11": "Líneas notables de la circunferencia y sus propiedades",
+                            "12": "Ángulos en la circunferencia",
+                            "13": "Problemas de circunferencia",
+                            "14": "Gráfico lineal",
+                            "15": "Gráfico circular"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Unidad 4 - Hay cosas positivas o negativas",
+                        "temas": {
+                            "0": "Extensión de números enteros",
+                            "1": "Comparación de números enteros",
+                            "2": "Valor absoluto de un número entero",
+                            "3": "Números enteros opuestos",
+                            "4": "Suma y resta de números enteros",
+                            "5": "Multiplicación, división, potenciación y radicación de números enteros",
+                            "6": "Operaciones combinadas con números enteros",
+                            "7": "Perímetro de regiones ",
+                            "8": "Área de regiones poligonales",
+                            "9": "Unidades de superficie",
+                            "10": "Pictogramas"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Unidad 5 - Las partes tienen significado ",
+                        "temas": {
+                            "0": "Fracción de un número",
+                            "1": "Fracciones impropias y números mixtos",
+                            "2": "Fracciones equivalentes",
+                            "3": "Simplificación de fracciones",
+                            "4": "Comparando fracciones",
+                            "5": "Suma y resta de fracciones y números mixtos",
+                            "6": "Multiplicación y división de fracciones",
+                            "7": "Operaciones combinadas con fracciones",
+                            "8": "Fracciones y números decimales",
+                            "9": "Comparación de números decimales",
+                            "10": "Suma y resta de números decimales",
+                            "11": "Multiplicación y división de números decimales",
+                            "12": "Operaciones combinadas con números decimales",
+                            "13": "Clasificación de números decimales",
+                            "14": "Cálculo de la generatriz de un número decimal",
+                            "15": "Unidades de masa",
+                            "16": "Área de regiones poligonales",
+                            "17": "Unidades agrarias",
+                            "18": "Media aritmética "
+                        }
+                    },
+                    "5": {
+                        "id": "5",
+                        "nombre": "Unidad 6 - Razón aritmética y geométrica",
+                        "temas": {
+                            "0": "Razón aritmética y geométrica",
+                            "1": "Proporción aritmética y geométrica",
+                            "2": "Proporción aritmética y geométrica",
+                            "3": "Magnitudes directa e inversamente proporcionales",
+                            "4": "Regla de tres simples e inversa",
+                            "5": "Tanto por ciento",
+                            "6": "Interés simple",
+                            "7": "Área de un círculo y regiones asociadas",
+                            "8": "Mediana estadística"
+                        }
+                    },
+                    "6": {
+                        "id": "6",
+                        "nombre": "Unidad 7 - Las regularidades nos llaman a atención ",
+                        "temas": {
+                            "0": "Patrones en secuencias numéricas",
+                            "1": "Secuencias literales",
+                            "2": "Secuencias con números triangulares y cuadrados",
+                            "3": "Secuencias gráficas",
+                            "4": "Poliedros",
+                            "5": "Prismas",
+                            "6": "Pirámides",
+                            "7": "Unidades de volumen",
+                            "8": "Transformaciones geométricas",
+                            "9": "Moda estadística"
+                        }
+                    },
+                    "7": {
+                        "id": "7",
+                        "nombre": "Unidad 8 - Las cantidades pueden ser iguales o desiguales",
+                        "temas": {
+                            "0": "Cuadrado de un binomio suma",
+                            "1": "Cuadrado de un binomio diferencia",
+                            "2": "Binomio suma por su diferencia",
+                            "3": "Ecuaciones",
+                            "4": "Ecuaciones fraccionarias",
+                            "5": "Desigualdades y sus propiedades",
+                            "6": "Inecuaciones",
+                            "7": "Inecuaciones",
+                            "8": "Sólido de revolución: cilindro, cono y esfera",
+                            "9": "Unidades de capacidad",
+                            "10": "Espacio muestral y eventos de un experimento aleatorio",
+                            "11": "Probabilidad a priori",
+                            "12": "Frecuencia relativa",
+                            "13": "Probabilidad a posteriori"
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "materia": "Arcagrafía",
+            "0": {
+                "activo": "1",
+                "titulo": "Arcagrafía 1",
+                "color": "#d70862",
+                "grado": "1",
+                "curso": "arcagrafia",
+                "portada": "ARCAGRAFIA-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Arcagrafía 1",
+                        "enlace": "ARCAGRAFIA-1",
+                        "portada": "ARCAGRAFIA-1.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Arcagrafía 2",
+                "color": "#ed2f31",
+                "grado": "2",
+                "curso": "arcagrafia",
+                "portada": "ARCAGRAFIA-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Arcagrafía 2",
+                        "enlace": "ARCAGRAFIA-2",
+                        "portada": "ARCAGRAFIA-2.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Arcagrafía 3",
+                "color": "#15b3cc",
+                "grado": "3",
+                "curso": "arcagrafia",
+                "portada": "ARCAGRAFIA-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Arcagrafía 3",
+                        "enlace": "ARCAGRAFIA-3",
+                        "portada": "ARCAGRAFIA-3.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Arcagrafía 4",
+                "color": "#5e2590",
+                "grado": "4",
+                "curso": "arcagrafia",
+                "portada": "ARCAGRAFIA-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Arcagrafía 4",
+                        "enlace": "ARCAGRAFIA-4",
+                        "portada": "ARCAGRAFIA-4.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Arcagrafía 5",
+                "color": "#7fcc28",
+                "grado": "5",
+                "curso": "arcagrafia",
+                "portada": "ARCAGRAFIA-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Arcagrafía 5",
+                        "enlace": "ARCAGRAFIA-5",
+                        "portada": "ARCAGRAFIA-5.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Arcagrafía 6",
+                "color": "#372f92",
+                "grado": "6",
+                "curso": "arcagrafia",
+                "portada": "ARCAGRAFIA-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Arcagrafía 6",
+                        "enlace": "ARCAGRAFIA-6",
+                        "portada": "ARCAGRAFIA-6.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "3": {
+            "materia": "Personal Social",
+            "0": {
+                "activo": "1",
+                "titulo": "Personal Social 1",
+                "color": "#d00b5f",
+                "grado": "1",
+                "curso": "personal",
+                "portada": "PS-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Personal Social",
+                        "enlace": "PS-1",
+                        "portada": "PS-1.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Personal Social 2",
+                "color": "#e72e2f",
+                "grado": "2",
+                "curso": "personal",
+                "portada": "PS-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Personal Social",
+                        "enlace": "PS-2",
+                        "portada": "PS-2.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Personal Social 3",
+                "color": "#19afc9",
+                "grado": "3",
+                "curso": "personal",
+                "portada": "PS-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Personal Social",
+                        "enlace": "PS-3",
+                        "portada": "PS-3.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Personal Social 4",
+                "color": "#5b268e",
+                "grado": "4",
+                "curso": "personal",
+                "portada": "PS-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Personal Social",
+                        "enlace": "PS-4",
+                        "portada": "PS-4.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Personal Social 5",
+                "color": "#7ac526",
+                "grado": "5",
+                "curso": "personal",
+                "portada": "PS-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Personal Social",
+                        "enlace": "PS-5",
+                        "portada": "PS-5.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Personal Social 6",
+                "color": "#342c8b",
+                "grado": "6",
+                "curso": "personal",
+                "portada": "PS-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Personal Social",
+                        "enlace": "PS-6",
+                        "portada": "PS-6.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "4": {
+            "materia": "Ciencia y Tecnología",
+            "0": {
+                "activo": "1",
+                "titulo": "Ciencia y Tecnología 1",
+                "color": "#d81163",
+                "grado": "1",
+                "curso": "ciencia",
+                "portada": "CIEN-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "CIEN-1",
+                        "portada": "CIEN-1.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Ciencia y Tecnología 2",
+                "color": "#ec3330",
+                "grado": "2",
+                "curso": "ciencia",
+                "portada": "CIEN-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "CIEN-2",
+                        "portada": "CIEN-2.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Ciencia y Tecnología 3",
+                "color": "#1eb5ca",
+                "grado": "3",
+                "curso": "ciencia",
+                "portada": "CIEN-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "CIEN-3",
+                        "portada": "CIEN-3.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Ciencia y Tecnología 4",
+                "color": "#602791",
+                "grado": "4",
+                "curso": "ciencia",
+                "portada": "CIEN-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "CIEN-4",
+                        "portada": "CIEN-4.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Ciencia y Tecnología 5",
+                "color": "#83cc27",
+                "grado": "5",
+                "curso": "ciencia",
+                "portada": "CIEN-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "CIEN-5",
+                        "portada": "CIEN-5.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Ciencia y Tecnología 6",
+                "color": "#373294",
+                "grado": "6",
+                "curso": "ciencia",
+                "portada": "CIEN-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "CIEN-6",
+                        "portada": "CIEN-6.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "5": {
+            "materia": "Inglés",
+            "0": {
+                "activo": "1",
+                "titulo": "Inglés 1",
+                "color": "#e8197d",
+                "grado": "1",
+                "curso": "ingles",
+                "portada": "student-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Student-1",
+                        "enlace": "ingles-primaria-student-1",
+                        "portada": "student-1.jpg"
+                    },
+                    "1": {
+                        "title": "Workbook-1",
+                        "enlace": "ingles-primaria-workbook-1",
+                        "portada": "workbook-1.jpg"
+                    },
+                    "2": {
+                        "title": "Plan Lector",
+                        "enlace": "ingles-primaria-plan-1",
+                        "portada": "plan-1.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Inglés 2",
+                "color": "#eb2b53",
+                "grado": "2",
+                "curso": "ingles",
+                "portada": "student-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Student-2",
+                        "enlace": "ingles-primaria-student-2",
+                        "portada": "student-2.jpg"
+                    },
+                    "1": {
+                        "title": "Workbook-2",
+                        "enlace": "ingles-primaria-workbook-2",
+                        "portada": "workbook-2.jpg"
+                    },
+                    "2": {
+                        "title": "Plan Lector",
+                        "enlace": "ingles-primaria-plan-2",
+                        "portada": "plan-2.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Inglés 3",
+                "color": "#36ab9a",
+                "grado": "3",
+                "curso": "ingles",
+                "portada": "student-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Student-3",
+                        "enlace": "ingles-primaria-student-3",
+                        "portada": "student-3.jpg"
+                    },
+                    "1": {
+                        "title": "Workbook-3",
+                        "enlace": "ingles-primaria-workbook-3",
+                        "portada": "workbook-3.jpg"
+                    },
+                    "2": {
+                        "title": "Plan Lector",
+                        "enlace": "ingles-primaria-plan-3",
+                        "portada": "plan-3.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Inglés 4",
+                "color": "#901f90",
+                "grado": "4",
+                "curso": "ingles",
+                "portada": "student-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Student-4",
+                        "enlace": "ingles-primaria-student-4",
+                        "portada": "student-4.jpg"
+                    },
+                    "1": {
+                        "title": "Workbook-4",
+                        "enlace": "ingles-primaria-workbook-4",
+                        "portada": "workbook-4.jpg"
+                    },
+                    "2": {
+                        "title": "Plan Lector",
+                        "enlace": "ingles-primaria-plan-4",
+                        "portada": "plan-4.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Inglés 5",
+                "color": "#89ca4d",
+                "grado": "5",
+                "curso": "ingles",
+                "portada": "student-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Student-5",
+                        "enlace": "ingles-primaria-student-5",
+                        "portada": "student-5.jpg"
+                    },
+                    "1": {
+                        "title": "Workbook-5",
+                        "enlace": "ingles-primaria-workbook-5",
+                        "portada": "workbook-5.jpg"
+                    },
+                    "2": {
+                        "title": "Plan Lector",
+                        "enlace": "ingles-primaria-plan-5",
+                        "portada": "plan-5.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Inglés 6",
+                "color": "#363568",
+                "grado": "6",
+                "curso": "ingles",
+                "portada": "student-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Student-6",
+                        "enlace": "ingles-primaria-student-6",
+                        "portada": "student-6.jpg"
+                    },
+                    "1": {
+                        "title": "Workbook-6",
+                        "enlace": "ingles-primaria-workbook-6",
+                        "portada": "workbook-6.jpg"
+                    },
+                    "2": {
+                        "title": "Plan Lector",
+                        "enlace": "ingles-primaria-plan-6",
+                        "portada": "plan-6.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "6": {
+            "materia": "Computación",
+            "0": {
+                "activo": "1",
+                "titulo": "Computación 1",
+                "color": "#eb1c6a",
+                "grado": "1",
+                "curso": "computacion",
+                "portada": "computacion-primaria-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Computación",
+                        "enlace": "computacion-primaria-1",
+                        "portada": "computacion-primaria-1.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Computación 2",
+                "color": "#fa3b2b",
+                "grado": "2",
+                "curso": "computacion",
+                "portada": "computacion-primaria-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Computación",
+                        "enlace": "computacion-primaria-2",
+                        "portada": "computacion-primaria-2.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Computación 3",
+                "color": "#10afcb",
+                "grado": "3",
+                "curso": "computacion",
+                "portada": "computacion-primaria-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Computación",
+                        "enlace": "computacion-primaria-3",
+                        "portada": "computacion-primaria-3.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Computación 4",
+                "color": "#712994",
+                "grado": "4",
+                "curso": "computacion",
+                "portada": "computacion-primaria-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Computación",
+                        "enlace": "computacion-primaria-4",
+                        "portada": "computacion-primaria-4.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Computación 5",
+                "color": "#75c933",
+                "grado": "5",
+                "curso": "computacion",
+                "portada": "computacion-primaria-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Computación",
+                        "enlace": "computacion-primaria-5",
+                        "portada": "computacion-primaria-5.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Computación 6",
+                "color": "#463497",
+                "grado": "6",
+                "curso": "computacion",
+                "portada": "computacion-primaria-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Computación",
+                        "enlace": "computacion-primaria-6",
+                        "portada": "computacion-primaria-6.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        }
+    },
+    "Inicial": {
+        "0": {
+            "materia": "Inglés",
+            "0": {
+                "activo": "1",
+                "titulo": "Inglés 3 años",
+                "color": "#f9a626",
+                "grado": "3",
+                "curso": "ingles",
+                "portada": "TKC-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "The Kid's Club",
+                        "enlace": "TKC-3",
+                        "portada": "TKC-3.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Inglés 4 años",
+                "color": "#de0521",
+                "grado": "4",
+                "curso": "ingles",
+                "portada": "TKC-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "The Kid's Club",
+                        "enlace": "TKC-4",
+                        "portada": "TKC-4.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Inglés 5 años",
+                "color": "#6ec5ee",
+                "grado": "5",
+                "curso": "ingles",
+                "portada": "TKC-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "The Kid's Club",
+                        "enlace": "TKC-5",
+                        "portada": "TKC-5.jpg"
+                    }
+                },
+                "unidades": {}
+            }
+        },
+        "1": {
+            "materia": "Computación",
+            "0": {
+                "activo": "1",
+                "titulo": "Computación 3 años",
+                "color": "#2d4ba4",
+                "grado": "3",
+                "curso": "teclitas",
+                "portada": "COMP-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "TECLITAS BRILLANTES 3 AÑOS",
+                        "enlace": "COMP-3",
+                        "portada": "COMP-3.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Computación 4 años",
+                "color": "#45aeaa",
+                "grado": "4",
+                "curso": "teclitas",
+                "portada": "COMP-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "TECLITAS BRILLANTES 4 AÑOS",
+                        "enlace": "COMP-4",
+                        "portada": "COMP-4.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Computación 5 años",
+                "color": "#cfede5",
+                "grado": "5",
+                "curso": "teclitas",
+                "portada": "COMP-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "TECLITAS BRILLANTES 5 AÑOS",
+                        "enlace": "COMP-5",
+                        "portada": "COMP-5.jpg"
+                    }
+                },
+                "unidades": {}
+            }
+        },
+        "2": {
+            "materia": "Pequeñas Manitas",
+            "0": {
+                "activo": "1",
+                "titulo": "Pequeñas Manitas 3 años",
+                "color": "#dda5c6",
+                "grado": "3",
+                "curso": "inicial",
+                "portada": "MANITAS-3.png",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "INICIAL-PM3-CIENCIA-Y-TECNOLOGIA",
+                        "portada": "INICIAL-PM3-CIENCIA.jpg"
+                    },
+                    "1": {
+                        "title": "Comunicación",
+                        "enlace": "INICIAL-PM3-COMUNICACION",
+                        "portada": "INICIAL-PM3-COMUNICACION-MATEMATICA.jpg"
+                    },
+                    "2": {
+                        "title": "Matemáticas",
+                        "enlace": "INICIAL-PM3-MATEMATICAS",
+                        "portada": "INICIAL-PM3-COMUNICACION-MATEMATICA.jpg"
+                    },
+                    "3": {
+                        "title": "Personal Social",
+                        "enlace": "INICIAL-PM3-PERSONAL-SOCIAL",
+                        "portada": "INICIAL-PM3-CIENCIA.jpg"
+                    },
+                    "4": {
+                        "title": "Psicomotriz",
+                        "enlace": "INICIAL-PM3-PSICOMOTRIZ",
+                        "portada": "INICIAL-PM3-CIENCIA.jpg"
+                    },
+                    "5": {
+                        "title": "Religión",
+                        "enlace": "INICIAL-PM3-RELIGION",
+                        "portada": "INICIAL-PM3-CIENCIA.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "TOMO A - COMUNICACION",
+                        "temas": {
+                            "0": "¿Que veo?",
+                            "1": "¿Que figura ves?",
+                            "2": "Describimos la imagen",
+                            "3": "Identifica Objetos",
+                            "4": "Interpretación de textos",
+                            "5": "¿Dónde está?",
+                            "6": "Los tres cerditos (Comprensión de lectura)",
+                            "7": "Adivina qué juguete es",
+                            "8": "El conejo Peluchín",
+                            "9": "Jugamos con los sonidos"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "TOMO A - MATEMATICAS",
+                        "temas": {
+                            "0": "Encontramos iguras iguales y diferentes",
+                            "1": "Agrupamos objetos",
+                            "2": "Más que... - menos que...",
+                            "3": "¡Vamos a contar!",
+                            "4": "Vamos a contar",
+                            "5": "Repaso: vamos a contar",
+                            "6": "Repaso: vamos a contar7",
+                            "7": "Repaso: secuencia de números",
+                            "8": "Repaso: clave de números"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "TOMO B - CIENCIA Y TECNOLOGIA",
+                        "temas": {
+                            "0": "¿Qué sentidos usamos?",
+                            "1": "¿Qué sentidos usamos?",
+                            "2": "Exploro animales de mi jardín",
+                            "3": "Me divierto contando los animales de la granja",
+                            "4": "Características de los animales",
+                            "5": "Cómo quiero a mis mascotas",
+                            "6": "Las plantas nos son útiles",
+                            "7": "¿Qué podemos ver?",
+                            "8": "Importancia del agua",
+                            "9": "¿Quiénes aparecen en primavera?",
+                            "10": "¿Qué cosas hay en verano?",
+                            "11": "Lo que llevo a la playa"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "TOMO B - PERSONAL SOCIAL",
+                        "temas": {
+                            "0": "Mis emociones",
+                            "1": "¿Cómo me siento?",
+                            "2": "Hábitos de higiene",
+                            "3": "Situaciones y lugares peligrosos que nos pueden dañar",
+                            "4": "Alimentos limpios y saludables",
+                            "5": "Resolvamos conlictos en el juego",
+                            "6": "El compañerismo",
+                            "7": "Los amigos de la salud",
+                            "8": "El amigo zapatero",
+                            "9": "Cuida la ciudad: El policía",
+                            "10": "Medios de transporte terretre",
+                            "11": "Medios de transporte aéreo"
+                        }
+                    }
+                }
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Pequeñas Manitas 4 años",
+                "color": "#f37646",
+                "grado": "4",
+                "curso": "inicial",
+                "portada": "MANITAS-4.png",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "INICIAL-PM4-CIENCIA-Y-TECNOLOGIA",
+                        "portada": "INICIAL-PM4-CIENCIA.jpg"
+                    },
+                    "1": {
+                        "title": "Comunicación",
+                        "enlace": "INICIAL-PM4-COMUNICACION",
+                        "portada": "INICIAL-PM4-COMUNICACION.jpg"
+                    },
+                    "2": {
+                        "title": "Matemáticas",
+                        "enlace": "INICIAL-PM4-MATEMATICAS",
+                        "portada": "INICIAL-PM4-COMUNICACION.jpg"
+                    },
+                    "3": {
+                        "title": "Personal Social",
+                        "enlace": "INICIAL-PM4-PERSONAL-SOCIAL",
+                        "portada": "INICIAL-PM4-CIENCIA.jpg"
+                    },
+                    "4": {
+                        "title": "Psicomotriz",
+                        "enlace": "INICIAL-PM4-PSICOMOTRIZ",
+                        "portada": "INICIAL-PM4-CIENCIA.jpg"
+                    },
+                    "5": {
+                        "title": "Religión",
+                        "enlace": "INICIAL-PM4-RELIGION",
+                        "portada": "INICIAL-PM4-CIENCIA.jpg"
+                    }
+                },
+                "unidades": {
+                    "0": {
+                        "id": "0",
+                        "nombre": "Tomo A - Comunicación",
+                        "temas": {
+                            "0": "Encontramos su sombra",
+                            "1": "¡Adivina, adivinador!",
+                            "2": "Objetos que no corresponden",
+                            "3": "¿Con qué vocal empieza?",
+                            "4": "tema 5",
+                            "5": "¡Adivina, adivinador!",
+                            "6": "Completamos palabras",
+                            "7": "Medios de comunicación",
+                            "8": "¿Cuáles terminan igual?",
+                            "9": "¿Qué dice la noticia?"
+                        }
+                    },
+                    "1": {
+                        "id": "1",
+                        "nombre": "Tomo A - Matemática",
+                        "temas": {
+                            "0": "Seguimos la secuencia",
+                            "1": "¿Dónde hay más?",
+                            "2": "Número 1",
+                            "3": "Encontramos formas",
+                            "4": "Número 5",
+                            "5": "Descubrimos medidas: Alto - Bajo",
+                            "6": "Números 6, 7, 8 y 9",
+                            "7": "Ordenamos por tamaño",
+                            "8": "tema 9",
+                            "9": "tema 10"
+                        }
+                    },
+                    "2": {
+                        "id": "2",
+                        "nombre": "Tomo B - Ciencia y Tecnología",
+                        "temas": {
+                            "0": "El sol",
+                            "1": "Acciones que dañan el medio ambiente",
+                            "2": "Las plantas crecen",
+                            "3": "El sismo",
+                            "4": "Las estaciones",
+                            "5": "¿Qué debemos comer?"
+                        }
+                    },
+                    "3": {
+                        "id": "3",
+                        "nombre": "Tomo B - Personal Social",
+                        "temas": {
+                            "0": "¿Cómo somos?",
+                            "1": "¿Cómo me siento?",
+                            "2": "¿Qué hacen?",
+                            "3": "Debo evitar peligros",
+                            "4": "Medios de transporte"
+                        }
+                    },
+                    "4": {
+                        "id": "4",
+                        "nombre": "Tomo B - Religión",
+                        "temas": {
+                            "0": "Dios creó",
+                            "1": "Santa Rosa de Lima"
+                        }
+                    }
+                }
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Pequeñas Manitas 5 años",
+                "color": "#f5a636",
+                "grado": "5",
+                "curso": "inicial",
+                "portada": "MANITAS-5.png",
+                "libros": {
+                    "0": {
+                        "title": "Ciencia y Tecnología",
+                        "enlace": "INICIAL-PM5-CIENCIA-Y-TECNOLOGIA",
+                        "portada": "INICIAL-PM5-CIENCIA.jpg"
+                    },
+                    "1": {
+                        "title": "Comunicación",
+                        "enlace": "INICIAL-PM5-COMUNICACION",
+                        "portada": "INICIAL-PM5-COMUNICACION.jpg"
+                    },
+                    "2": {
+                        "title": "Matemáticas",
+                        "enlace": "INICIAL-PM5-MATEMATICAS",
+                        "portada": "INICIAL-PM5-COMUNICACION.jpg"
+                    },
+                    "3": {
+                        "title": "Personal Social",
+                        "enlace": "INICIAL-PM5-PERSONAL-SOCIAL",
+                        "portada": "INICIAL-PM5-CIENCIA.jpg"
+                    },
+                    "4": {
+                        "title": "Psicomotriz",
+                        "enlace": "INICIAL-PM5-PSICOMOTRIZ",
+                        "portada": "INICIAL-PM5-CIENCIA.jpg"
+                    },
+                    "5": {
+                        "title": "Religión",
+                        "enlace": "INICIAL-PM5-RELIGION",
+                        "portada": "INICIAL-PM5-CIENCIA.jpg"
+                    }
+                }
+            },
+            "unidades": {
+                "0": {
+                    "id": "0",
+                    "nombre": "TOMO A - Comunicación",
+                    "temas": {
+                        "0": "Artículos: El – La",
+                        "1": "Describimos la imagen",
+                        "2": "Tema 3",
+                        "3": "Un – Unos",
+                        "4": "Un – Unos",
+                        "5": "Buscamos la semejanza",
+                        "6": "Descubrimos la letra",
+                        "7": "Descubrimos la letra",
+                        "8": "Descubrimos las vocales",
+                        "9": "Crucifrutas",
+                        "10": "Pupimagic"
+                    }
+                },
+                "1": {
+                    "id": "1",
+                    "nombre": "TOMO A: Matemática",
+                    "temas": {
+                        "0": "El tiempo",
+                        "1": "Buscamos cuadrados",
+                        "2": "Clasificamos por tamaño",
+                        "3": "Secuencia",
+                        "4": "Direccionalidad: a la derecha – a la izquierda",
+                        "5": "Comparamos objetos",
+                        "6": "Ordenamos la seriación",
+                        "7": "Ubicación: encima de... / debajo de...",
+                        "8": "Mayor que...",
+                        "9": "Ascendente"
+                    }
+                },
+                "2": {
+                    "id": "2",
+                    "nombre": "TOMO B - Ciencia y ambiente",
+                    "temas": {
+                        "0": "¿Cómo funciona mi cuerpo? El sistema digestivo",
+                        "1": "¿Cómo es mi cuerpo por dentro?",
+                        "2": "Reconocemos una parte del animal",
+                        "3": "Los estados del agua",
+                        "4": "¿Cómo se contaminan mis pulmones?",
+                        "5": "¿Cómo funciona mi cuerpo? El sistema respiratorio",
+                        "6": "¿Cómo nacen los animales?",
+                        "7": "Pirámide nutricional"
+                    }
+                },
+                "3": {
+                    "id": "3",
+                    "nombre": "TOMO B - Personal Social",
+                    "temas": {
+                        "0": "Los ayudantes de la comunidad",
+                        "1": "Acuerdos de convivencia",
+                        "2": "tema 3",
+                        "3": "Símbolos de la patria: la bandera del Perú",
+                        "4": "Ubica: lado derecho – lado izquierdo",
+                        "5": "tema 6",
+                        "6": "El semáforo"
+                    }
+                },
+                "4": {
+                    "id": "4",
+                    "nombre": "TOMO B - Religión",
+                    "temas": {
+                        "0": "La Biblia"
+                    }
+                }
+            }
+        }
+    },
+    "Secundaria": {
+        "0": {
+            "materia": "Emprendimiento",
+            "0": {
+                "activo": "1",
+                "titulo": "Emprendimiento 1",
+                "color": "#568f17",
+                "grado": "1",
+                "curso": "emprendimiento",
+                "portada": "EMP-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Emprendimiento",
+                        "enlace": "EMP-1",
+                        "portada": "EMP-1.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Emprendimiento 2",
+                "color": "#d87d4f",
+                "grado": "2",
+                "curso": "emprendimiento",
+                "portada": "EMP-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Emprendimiento",
+                        "enlace": "EMP-2",
+                        "portada": "EMP-2.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Emprendimiento 3",
+                "color": "#e93804",
+                "grado": "3",
+                "curso": "emprendimiento",
+                "portada": "EMP-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Emprendimiento",
+                        "enlace": "EMP-3",
+                        "portada": "EMP-3.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Emprendimiento 4",
+                "color": "#2f9391",
+                "grado": "4",
+                "curso": "emprendimiento",
+                "portada": "EMP-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Emprendimiento",
+                        "enlace": "EMP-4",
+                        "portada": "EMP-4.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Emprendimiento 5",
+                "color": "#2b58a5",
+                "grado": "5",
+                "curso": "emprendimiento",
+                "portada": "EMP-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Emprendimiento",
+                        "enlace": "EMP-5",
+                        "portada": "EMP-5.jpg"
+                    }
+                },
+                "unidades": {}
+            }
+        },
+        "1": {
+            "materia": "Matemática",
+            "0": {
+                "activo": "1",
+                "titulo": "Matemática 1",
+                "color": "#d70862",
+                "grado": "1",
+                "curso": "matematica",
+                "portada": "mate1-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "mate1-sec-actividades",
+                        "portada": "mate1-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "mate1-sec-razonamiento",
+                        "portada": "mate1-sec-razonamiento.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "mate1-sec-texto",
+                        "portada": "mate1-sec-texto.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Matemática 2",
+                "color": "#ed2e30",
+                "grado": "2",
+                "curso": "matematica",
+                "portada": "mate2-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "mate2-sec-actividades",
+                        "portada": "mate2-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "mate2-sec-razonamiento",
+                        "portada": "mate2-sec-razonamiento.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "mate2-sec-texto",
+                        "portada": "mate2-sec-texto.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Matemática 3",
+                "color": "#15b3cc",
+                "grado": "3",
+                "curso": "matematica",
+                "portada": "mate3-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "mate3-sec-actividades",
+                        "portada": "mate3-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "mate3-sec-razonamiento",
+                        "portada": "mate3-sec-razonamiento.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "mate3-sec-texto",
+                        "portada": "mate3-sec-texto.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Matemática 4",
+                "color": "#5f2691",
+                "grado": "4",
+                "curso": "matematica",
+                "portada": "mate4-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "mate4-sec-actividades",
+                        "portada": "mate4-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "mate4-sec-razonamiento",
+                        "portada": "mate4-sec-razonamiento.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "mate4-sec-texto",
+                        "portada": "mate4-sec-texto.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Matemática 5",
+                "color": "#81ce29",
+                "grado": "5",
+                "curso": "matematica",
+                "portada": "mate5-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "mate5-sec-actividades",
+                        "portada": "mate5-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "mate5-sec-razonamiento",
+                        "portada": "mate5-sec-razonamiento.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "mate5-sec-texto",
+                        "portada": "mate5-sec-texto.jpg"
+                    }
+                },
+                "unidades": {}
+            }
+        }
+    },
+    "Plan": {
+        "0": {
+            "materia": "Obras Literarias",
+            "0": {
+                "activo": "1",
+                "titulo": "Obras Literarias 1",
+                "color": "#66b9d7",
+                "grado": "1",
+                "curso": "obras",
+                "portada": "OBRAS-1.jpg",
+                "libros": {
+                    "0": {
+                        "title": "La Cenicienta",
+                        "enlace": "OBRAS-1-CENICIENTA",
+                        "portada": "OBRAS-1-CENICIENTA.jpg"
+                    },
+                    "1": {
+                        "title": "Juan y las habichuelas",
+                        "enlace": "OBRAS-1-JUAN-Y-LAS-HABICUELAS",
+                        "portada": "OBRAS-1-JUAN-Y-LAS-HABICUELAS.jpg"
+                    },
+                    "2": {
+                        "title": "Los tres Cerditos",
+                        "enlace": "OBRAS-1-LOS-TRES-CERDITOS",
+                        "portada": "OBRAS-1-LOS-TRES-CERDITOS.jpg"
+                    },
+                    "3": {
+                        "title": "El patito feo",
+                        "enlace": "OBRAS-1-PATITO-FEO",
+                        "portada": "OBRAS-1-PATITO-FEO.jpg"
+                    },
+                    "4": {
+                        "title": "Pulgarcita",
+                        "enlace": "OBRAS-1-PULGARCITA",
+                        "portada": "OBRAS-1-PULGARCITA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Obras Literarias 2",
+                "color": "#f88818",
+                "grado": "2",
+                "curso": "obras",
+                "portada": "OBRAS-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El gato con botas",
+                        "enlace": "OBRAS-2-EL-GATO-CON-BOTAS",
+                        "portada": "OBRAS-2-EL-GATO-CON-BOTAS.jpg"
+                    },
+                    "1": {
+                        "title": "El soldadito de plomo",
+                        "enlace": "OBRAS-2-EL-SOLDADITO-DE-PLOMO",
+                        "portada": "OBRAS-2-EL-SOLDADITO-DE-PLOMO.jpg"
+                    },
+                    "2": {
+                        "title": "Hansel y Gretel",
+                        "enlace": "OBRAS-2-HANSEL-Y-GRETEL",
+                        "portada": "OBRAS-2-HANSEL-Y-GRETEL.jpg"
+                    },
+                    "3": {
+                        "title": "Rapumsel",
+                        "enlace": "OBRAS-2-RAPUNSEL",
+                        "portada": "OBRAS-2-RAPUNSEL.jpg"
+                    },
+                    "4": {
+                        "title": "Simbad el marino",
+                        "enlace": "OBRAS-2-SIMBAD-EL-MARINO",
+                        "portada": "OBRAS-2-SIMBAD-EL-MARINO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Obras Literarias 3",
+                "color": "#5dc333",
+                "grado": "3",
+                "curso": "obras",
+                "portada": "OBRAS-3.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El mago de Oz",
+                        "enlace": "OBRAS-3-EL-MAGO-DE-OZ",
+                        "portada": "OBRAS-3-EL-MAGO-DE-OZ.jpg"
+                    },
+                    "1": {
+                        "title": "Los Duendecillos",
+                        "enlace": "OBRAS-3-LOS-DUENDECILLOS",
+                        "portada": "OBRAS-3-LOS-DUENDECILLOS.jpg"
+                    },
+                    "2": {
+                        "title": "Pedro y el Lobo",
+                        "enlace": "OBRAS-3-PEDRO-Y-EL-LOBO",
+                        "portada": "OBRAS-3-PEDRO-Y-EL-LOBO.jpg"
+                    },
+                    "3": {
+                        "title": "Piñoncito",
+                        "enlace": "OBRAS-3-PINONCITO",
+                        "portada": "OBRAS-3-PINONCITO.jpg"
+                    },
+                    "4": {
+                        "title": "Ricitos de oro",
+                        "enlace": "OBRAS-3-RICITOS-DE-ORO",
+                        "portada": "OBRAS-3-RICITOS-DE-ORO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Obras Literarias 4",
+                "color": "#4144a1",
+                "grado": "4",
+                "curso": "obras",
+                "portada": "OBRAS-4.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Alí Babá y los cuarenta ladrones",
+                        "enlace": "OBRAS-4-ALI-BABA-Y-LOS-CUARENTA-LADRONES",
+                        "portada": "OBRAS-4-ALI-BABA-Y-LOS-CUARENTA-LADRONES.jpg"
+                    },
+                    "1": {
+                        "title": "El sastrecillo valiente",
+                        "enlace": "OBRAS-4-EL-SASTRECILLO-VALIENTE",
+                        "portada": "OBRAS-4-EL-SASTRECILLO-VALIENTE.jpg"
+                    },
+                    "2": {
+                        "title": "Frederick",
+                        "enlace": "OBRAS-4-FREDERICK",
+                        "portada": "OBRAS-4-FREDERICK.jpg"
+                    },
+                    "3": {
+                        "title": "Los músicos de Bremen",
+                        "enlace": "OBRAS-4-LOS-MUSICOS-DE-BREMEN",
+                        "portada": "OBRAS-4-LOS-MUSICOS-DE-BREMEN.jpg"
+                    },
+                    "4": {
+                        "title": "Piel de asno",
+                        "enlace": "OBRAS-4-PIEL-DE-ASNO",
+                        "portada": "OBRAS-4-PIEL-DE-ASNO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Obras Literarias 5",
+                "color": "#ca1693",
+                "grado": "5",
+                "curso": "obras",
+                "portada": "OBRAS-5.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El traje del Emperador",
+                        "enlace": "OBRAS-5-EL-TRAJE-DEL-EMPERADOR",
+                        "portada": "OBRAS-5-EL-TRAJE-DEL-EMPERADOR.jpg"
+                    },
+                    "1": {
+                        "title": "Juan sin miedo",
+                        "enlace": "OBRAS-5-JUAN-SIN-MIEDO",
+                        "portada": "OBRAS-5-JUAN-SIN-MIEDO.jpg"
+                    },
+                    "2": {
+                        "title": "Los viajes de Gulliver",
+                        "enlace": "OBRAS-5-LOS-VIAJES-DE-GULLIVER",
+                        "portada": "OBRAS-5-LOS-VIAJES-DE-GULLIVER.jpg"
+                    },
+                    "3": {
+                        "title": "Peter Pan",
+                        "enlace": "OBRAS-5-PETER-PAN",
+                        "portada": "OBRAS-5-PETER-PAN.jpg"
+                    },
+                    "4": {
+                        "title": "Rey Midas",
+                        "enlace": "OBRAS-5-REY-MIDAS",
+                        "portada": "OBRAS-5-REY-MIDAS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Obras Literarias 6",
+                "color": "#762794",
+                "grado": "6",
+                "curso": "obras",
+                "portada": "OBRAS-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Alicia en el Pais de las Maravillas",
+                        "enlace": "OBRAS-6-ALICIA-EN-EL-PAIS-DE-LAS-MARAVILLAS",
+                        "portada": "OBRAS-6-ALICIA-EN-EL-PAIS-DE-LAS-MARAVILLAS.jpg"
+                    },
+                    "1": {
+                        "title": "El pequeño Vampiro",
+                        "enlace": "OBRAS-6-EL-PEQUENO-VAMPIRO",
+                        "portada": "OBRAS-6-EL-PEQUENO-VAMPIRO.jpg"
+                    },
+                    "2": {
+                        "title": "El Principito",
+                        "enlace": "OBRAS-6-EL-PRINCIPITO",
+                        "portada": "OBRAS-6-EL-PRINCIPITO.jpg"
+                    },
+                    "3": {
+                        "title": "El Ruiseñor",
+                        "enlace": "OBRAS-6-EL-RUISENOR",
+                        "portada": "OBRAS-6-EL-RUISENOR.jpg"
+                    },
+                    "4": {
+                        "title": "Juan Salvador Gaviota",
+                        "enlace": "OBRAS-6-JUAN-SALVADOR-GAVIOTA",
+                        "portada": "OBRAS-6-JUAN-SALVADOR-GAVIOTA.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "1": {
+            "materia": "Leer es mi super poder",
+            "0": {
+                "activo": "1",
+                "titulo": "Blas Y Lua",
+                "color": "#762794",
+                "grado": "1",
+                "curso": "superpoder",
+                "portada": "CUENTO-BLAS-Y-LUA.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Blas y Lua",
+                        "enlace": "CUENTO-BLAS-Y-LUA",
+                        "portada": "CUENTO-BLAS-Y-LUA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Cómo aprendí a montar a caballo",
+                "color": "#762794",
+                "grado": "2",
+                "curso": "superpoder",
+                "portada": "CUENTO-COMO-APRENDI-A-MONTAR-A-CABALLO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Cómo aprendí a montar a caballo",
+                        "enlace": "CUENTO-COMO-APRENDI-A-MONTAR-A-CABALLO",
+                        "portada": "CUENTO-COMO-APRENDI-A-MONTAR-A-CABALLO.jpg"
+                    },
+                    "1": {
+                        "title": "GUIA Cómo aprendí a montar a caballo",
+                        "enlace": "CUENTO-COMO-APRENDI-A-MONTAR-CABALLO-GUIA",
+                        "portada": "CUENTO-COMO-APRENDI-A-MONTAR-CABALLO-GUIA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Mi abuela tiene diez años",
+                "color": "#762794",
+                "grado": "3",
+                "curso": "superpoder",
+                "portada": "CUENTO-MI-ABUELA-TIENE-DIEZ-ANOS.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Mi abuela tiene diez años",
+                        "enlace": "CUENTO-MI-ABUELA-TIENE-DIEZ-ANOS",
+                        "portada": "CUENTO-MI-ABUELA-TIENE-DIEZ-ANOS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "El regalo de Pipe",
+                "color": "#762794",
+                "grado": "4",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-REGALO-DE-PIPE.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El regalo de Pipe",
+                        "enlace": "CUENTO-EL-REGALO-DE-PIPE",
+                        "portada": "CUENTO-EL-REGALO-DE-PIPE.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Federico & Federico",
+                "color": "#762794",
+                "grado": "5",
+                "curso": "superpoder",
+                "portada": "CUENTO-FEDERICO-Y-FEDERICO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Federico & Federico",
+                        "enlace": "CUENTO-FEDERICO-Y-FEDERICO",
+                        "portada": "CUENTO-FEDERICO-Y-FEDERICO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Momentos de azúcar",
+                "color": "#762794",
+                "grado": "6",
+                "curso": "superpoder",
+                "portada": "CUENTO-MOMENTOS-DE-AZUCAR.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Momentos de azúcar",
+                        "enlace": "CUENTO-MOMENTOS-DE-AZUCAR",
+                        "portada": "CUENTO-MOMENTOS-DE-AZUCAR.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "6": {
+                "activo": "1",
+                "titulo": "El cuento que tenía miedo",
+                "color": "#762794",
+                "grado": "7",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-CUENTO-QUE-TENIA-MIEDO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El cuento que tenía miedo",
+                        "enlace": "CUENTO-EL-CUENTO-QUE-TENIA-MIEDO",
+                        "portada": "CUENTO-EL-CUENTO-QUE-TENIA-MIEDO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "7": {
+                "activo": "1",
+                "titulo": "Cuentos para dormir un elefante",
+                "color": "#762794",
+                "grado": "8",
+                "curso": "superpoder",
+                "portada": "CUENTO-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Cuentos para dormir un elefante",
+                        "enlace": "CUENTO-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE",
+                        "portada": "CUENTO-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "2": {
+            "materia": "",
+            "0": {
+                "activo": "1",
+                "titulo": "A Margarita Debayle",
+                "color": "#762794",
+                "grado": "9",
+                "curso": "superpoder",
+                "portada": "CUENTO-A-MARGARITA-DEBAYLE.jpg",
+                "libros": {
+                    "0": {
+                        "title": "A Margarita Debayle",
+                        "enlace": "CUENTO-A-MARGARITA-DEBAYLE",
+                        "portada": "CUENTO-A-MARGARITA-DEBAYLE.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Entre pecas y lentejas",
+                "color": "#762794",
+                "grado": "10",
+                "curso": "superpoder",
+                "portada": "CUENTO-ENTRE-PECAS-Y-LENTEJAS.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Entre pecas y lentejas",
+                        "enlace": "CUENTO-ENTRE-PECAS-Y-LENTEJAS",
+                        "portada": "CUENTO-ENTRE-PECAS-Y-LENTEJAS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "El vendedor de sombrillas",
+                "color": "#762794",
+                "grado": "11",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-VENDEDOR-DE-SOMBRILLAS.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El vendedor de sombrillas",
+                        "enlace": "CUENTO-EL-VENDEDOR-DE-SOMBRILLAS",
+                        "portada": "CUENTO-EL-VENDEDOR-DE-SOMBRILLAS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Maria Ite y su vestido rojo",
+                "color": "#762794",
+                "grado": "12",
+                "curso": "superpoder",
+                "portada": "CUENTO-MARIA-ITE.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Maria Ite y su vestido rojo",
+                        "enlace": "CUENTO-MARIA-ITE",
+                        "portada": "CUENTO-MARIA-ITE.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "La costurera y el hilo de agua",
+                "color": "#762794",
+                "grado": "13",
+                "curso": "superpoder",
+                "portada": "CUENTO-LA-COSTURERA.jpg",
+                "libros": {
+                    "0": {
+                        "title": "La costurera y el hilo de agua",
+                        "enlace": "CUENTO-LA-COSTURERA",
+                        "portada": "CUENTO-LA-COSTURERA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "De ballenas y de mares",
+                "color": "#762794",
+                "grado": "14",
+                "curso": "superpoder",
+                "portada": "CUENTO-DE-BALLENAS-Y-DE-MARES.jpg",
+                "libros": {
+                    "0": {
+                        "title": "De ballenas y de mares",
+                        "enlace": "CUENTO-DE-BALLENAS-Y-DE-MARES",
+                        "portada": "CUENTO-DE-BALLENAS-Y-DE-MARES.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "6": {
+                "activo": "1",
+                "titulo": "Un acto de magia",
+                "color": "#762794",
+                "grado": "15",
+                "curso": "superpoder",
+                "portada": "CUENTO-UN-ACTO-DE-MAGIA.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Un acto de magia",
+                        "enlace": "CUENTO-UN-ACTO-DE-MAGIA",
+                        "portada": "CUENTO-UN-ACTO-DE-MAGIA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "7": {
+                "activo": "1",
+                "titulo": "Tunga Catunga",
+                "color": "#762794",
+                "grado": "16",
+                "curso": "superpoder",
+                "portada": "CUENTO-TUNGA-CATUNGA.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Tunga Catunga",
+                        "enlace": "CUENTO-TUNGA-CATUNGA",
+                        "portada": "CUENTO-TUNGA-CATUNGA.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "3": {
+            "materia": "",
+            "0": {
+                "activo": "1",
+                "titulo": "La Bruja Trik",
+                "color": "#762794",
+                "grado": "17",
+                "curso": "superpoder",
+                "portada": "CUENTO-LA-BRUJITA-TRIK.jpg",
+                "libros": {
+                    "0": {
+                        "title": "La Bruja Trik",
+                        "enlace": "CUENTO-LA-BRUJITA-TRIK",
+                        "portada": "CUENTO-LA-BRUJITA-TRIK.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "El Genio de los terremotos",
+                "color": "#762794",
+                "grado": "18",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-SENOR-DE-LOS-TERREMOTOS.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El Genio de los terremotos",
+                        "enlace": "CUENTO-EL-SENOR-DE-LOS-TERREMOTOS",
+                        "portada": "CUENTO-EL-SENOR-DE-LOS-TERREMOTOS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Se enloquecieron los números",
+                "color": "#762794",
+                "grado": "19",
+                "curso": "superpoder",
+                "portada": "CUENTO-SE-ENLOQUECIERON-LOS-NUMEROS.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Se enloquecieron los números",
+                        "enlace": "CUENTO-SE-ENLOQUECIERON-LOS-NUMEROS",
+                        "portada": "CUENTO-SE-ENLOQUECIERON-LOS-NUMEROS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "Una semana con el Elfo del sueño",
+                "color": "#762794",
+                "grado": "20",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-ELFO-DEL-SUENO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Una semana con el Elfo del sueño",
+                        "enlace": "CUENTO-UNA SEMANA-CON-EL-ELFO-DEL-SUENO",
+                        "portada": "CUENTO-UNA SEMANA-CON-EL-ELFO-DEL-SUENO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "El Gallo del olvido",
+                "color": "#762794",
+                "grado": "21",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-GALLO-DEL-OLVIDO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El Gallo del olvido",
+                        "enlace": "CUENTO-EL-GALLO-DEL-OLVIDO",
+                        "portada": "CUENTO-EL-GALLO-DEL-OLVIDO.jpg"
+                    },
+                    "1": {
+                        "title": "Guia El Gallo del olvido",
+                        "enlace": "CUENTO-EL-GALLO-DEL-OLVIDO-GUIA",
+                        "portada": "CUENTO-EL-GALLO-DEL-OLVIDO-GUIA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "La pepita de zapallo",
+                "color": "#762794",
+                "grado": "22",
+                "curso": "superpoder",
+                "portada": "CUENTO-LA-PEPITA-DE-ZAPALLO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "La pepita de zapallo",
+                        "enlace": "CUENTO-LA-PEPITA-DE-ZAPALLO",
+                        "portada": "CUENTO-LA-PEPITA-DE-ZAPALLO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "6": {
+                "activo": "1",
+                "titulo": "El Principe Iván y el Pájaro de fuego",
+                "color": "#762794",
+                "grado": "23",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El Principe Iván y el Pájaro de fuego",
+                        "enlace": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO",
+                        "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "7": {
+                "activo": "1",
+                "titulo": "Aventuras del pez negro",
+                "color": "#762794",
+                "grado": "24",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El Principe Iván y el Pájaro de fuego",
+                        "enlace": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO",
+                        "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "4": {
+            "materia": "",
+            "0": {
+                "activo": "1",
+                "titulo": "Locuras en Villa Disparate",
+                "color": "#762794",
+                "grado": "25",
+                "curso": "superpoder",
+                "portada": "CUENTO-LOCURAS-EN-LA-VILLA-DISPARATE.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Locuras en Villa Disparate",
+                        "enlace": "CUENTO-LOCURAS-EN-LA-VILLA-DISPARATE",
+                        "portada": "CUENTO-LOCURAS-EN-LA-VILLA-DISPARATE.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "1",
+                "titulo": "Contaba mi Papá",
+                "color": "#762794",
+                "grado": "26",
+                "curso": "superpoder",
+                "portada": "CUENTO-CONTABA-MI-PAPA.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Contaba mi Papá",
+                        "enlace": "CUENTO-CONTABA-MI-PAPA",
+                        "portada": "CUENTO-CONTABA-MI-PAPA.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "1",
+                "titulo": "Cervantes, aventuras de novelas",
+                "color": "#762794",
+                "grado": "27",
+                "curso": "superpoder",
+                "portada": "CUENTO-CERVANTES-AVENTURAS-DE-NOVELAS.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Contaba mi Papá",
+                        "enlace": "CUENTO-CERVANTES-AVENTURAS-DE-NOVELAS",
+                        "portada": "CUENTO-CERVANTES-AVENTURAS-DE-NOVELAS.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "1",
+                "titulo": "El pequeño Orbis Pictus",
+                "color": "#762794",
+                "grado": "28",
+                "curso": "superpoder",
+                "portada": "CUENTO-ORBIS-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El pequeño Orbis Pictus",
+                        "enlace": "CUENTO-ORBIS-2",
+                        "portada": "CUENTO-ORBIS-2.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "1",
+                "titulo": "Seminarios del miedo",
+                "color": "#762794",
+                "grado": "29",
+                "curso": "superpoder",
+                "portada": "CUENTOS-SEMANARIO-DEL-MIEDO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Seminarios del miedo",
+                        "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO",
+                        "portada": "CUENTOS-SEMANARIO-DEL-MIEDO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "5": {
+                "activo": "1",
+                "titulo": "Seminarios del miedo 2",
+                "color": "#762794",
+                "grado": "30",
+                "curso": "superpoder",
+                "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Seminarios del miedo 2",
+                        "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO-II",
+                        "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "6": {
+                "activo": "1",
+                "titulo": "Seminarios del miedo 2",
+                "color": "#762794",
+                "grado": "30",
+                "curso": "superpoder",
+                "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Seminarios del miedo 2",
+                        "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO-II",
+                        "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        },
+        "5": {
+            "0": {
+                "activo": "1",
+                "titulo": "",
+                "color": "#762794",
+                "grado": "30",
+                "curso": "superpoder",
+                "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg",
+                "libros": {
+                    "0": {
+                        "title": "",
+                        "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO-II",
+                        "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg"
+                    }
+                },
+                "unidades": ""
+            }
+        }
+    }
+}
