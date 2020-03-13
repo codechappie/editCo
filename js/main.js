@@ -1,23 +1,23 @@
-document.addEventListener("DOMContentLoaded", function(event) {
+document.addEventListener("DOMContentLoaded", function (event) {
     const url = '../data/data.json';
     let level = document.getElementById("levelCourse");
+    let preCont = document.getElementById("contePre");
 
-    fetch(url,{
+    fetch(url, {
 
     }).then(response => response.json())
-    .then(result => {
-        // let cant = Object.keys(result).length;
-        let data = Object.keys(result);
-        let grades = result["Primaria"][0][0]["titulo"];
-        console.log(grades)
+        .then(result => {
+            // let cant = Object.keys(result).length;
+            const JsonData = result;
+            console.info("activo:", result["Primaria"][0][0]["activo"])
+            result["Primaria"][0][0]["activo"] = "1";
+            result["Primaria"][0][1]["activo"] = "1";
+            console.info("activo:", result["Primaria"][0][0]["activo"])
+            console.log(result)
+            
+            preCont.innerHTML=JSON.stringify(result, null, 2);
+            
 
-        data.forEach((element, index) => {
-            level.innerHTML+=`
-            <h3>${element}</h3>
-            <p>${grades}</p>
-            `;
- 
-        })
-        
-    });
+            // console.log(JSON.stringify(JsonData))
+        });
 });
