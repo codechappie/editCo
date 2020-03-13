@@ -7,17 +7,25 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
     }).then(response => response.json())
         .then(result => {
-            // let cant = Object.keys(result).length;
-            const JsonData = result;
-            console.info("activo:", result["Primaria"][0][0]["activo"])
-            result["Primaria"][0][0]["activo"] = "1";
-            result["Primaria"][0][1]["activo"] = "1";
-            console.info("activo:", result["Primaria"][0][0]["activo"])
-            console.log(result)
             
-            preCont.innerHTML=JSON.stringify(result, null, 2);
+            let dat = Object.keys(result);
             
 
-            // console.log(JSON.stringify(JsonData))
+            dat.forEach((eleme,index) => {
+                level.innerHTML+=`<h2>${eleme}</h2>`;
+                // console.log(result['Primaria'])
+                let data = result[eleme];  
+                  
+                for (let index = 0; index < Object.keys(data).length; index++) {
+                    
+                    level.innerHTML+=`
+                    <h5>${data[index]['materia']}</h5>
+                    <a>${JSON.stringify(data[index][index], null, 2)}</a>
+                    `;
+                    
+                }
+
+
+            })
         });
 });
