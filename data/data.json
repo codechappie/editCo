@@ -3,7 +3,7 @@
         "0": {
             "materia": "Comunicación",
             "0": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Comunicación 1",
                 "color": "#c60059",
                 "grado": "1",
@@ -139,7 +139,7 @@
                 }
             },
             "1": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Comunicación 2",
                 "color": "#d92f2a",
                 "grado": "2",
@@ -261,7 +261,7 @@
                 }
             },
             "2": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Comunicación 3",
                 "color": "#0099b8",
                 "grado": "3",
@@ -386,7 +386,7 @@
                 }
             },
             "3": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Comunicación 4",
                 "color": "#5f1e76",
                 "grado": "4",
@@ -497,7 +497,7 @@
                 }
             },
             "4": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Comunicación 5",
                 "color": "#91b715",
                 "grado": "5",
@@ -617,7 +617,7 @@
                 }
             },
             "5": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Comunicación 6",
                 "color": "#2f1b6d",
                 "grado": "6",
@@ -779,7 +779,7 @@
         "1": {
             "materia": "Matemática",
             "0": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Matemática 1",
                 "color": "#00b3ce",
                 "grado": "1",
@@ -934,7 +934,7 @@
                 }
             },
             "1": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Matemática 2",
                 "color": "#cf1a16",
                 "grado": "2",
@@ -1068,7 +1068,7 @@
                 }
             },
             "2": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Matemática 3",
                 "color": "#fcbf00",
                 "grado": "3",
@@ -1082,7 +1082,7 @@
                     },
                     "1": {
                         "title": "Actividades Part 2",
-                        "enlace": "MAT-3-ACTIVIDADES-PAT2",
+                        "enlace": "MAT-3-ACTIVIDADES-PART2",
                         "portada": "MAT-3-ACTIVIDADES-PAT2.jpg"
                     },
                     "2": {
@@ -1189,7 +1189,7 @@
                 }
             },
             "3": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Matemática 4",
                 "color": "#3bac31",
                 "grado": "4",
@@ -1198,9 +1198,25 @@
                 "libros": {
                     "0": {
                         "title": "Actividades",
-                        "enlace": "MAT-3-ACTIVIDADES-PART1",
-                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                        "enlace": "MAT-4-ACTIVIDADES-PART1",
+                        "portada": "MAT-4-ACTIVIDADES-PART1.jpg"
+                    },
+                    "1": {
+                        "title": "Actividades 2",
+                        "enlace": "MAT-4-ACTIVIDADES-PART2",
+                        "portada": "MAT-4-ACTIVIDADES-PART2.jpg"
+                    },
+                    "2": {
+                        "title": "Actividades",
+                        "enlace": "MAT-4-RM",
+                        "portada": "MAT-4-RM.jpg"
+                    },
+                    "3": {
+                        "title": "Actividades",
+                        "enlace": "MAT-4-TEXTO",
+                        "portada": "MAT-4-TEXTO.jpg"
                     }
+                
                 },
                 "unidades": {
                     "0": {
@@ -1339,7 +1355,7 @@
                 }
             },
             "4": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Matemática 5",
                 "color": "#6e348a",
                 "grado": "5",
@@ -1348,18 +1364,23 @@
                 "libros": {
                     "0": {
                         "title": "Actividades",
-                        "enlace": "MAT-3-ACTIVIDADES-PART1",
-                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                        "enlace": "MAT-5-ACTIVIDADES-PART1",
+                        "portada": "MAT-5-ACTIVIDADES-PART1.jpg"
                     },
                     "1": {
-                        "title": "Texto",
-                        "enlace": "MAT-3-ACTIVIDADES-PART1",
-                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                        "title": "Actividades 2",
+                        "enlace": "MAT-5-ACTIVIDADES-PART2",
+                        "portada": "MAT-5-ACTIVIDADES-PART2.jpg"
                     },
                     "2": {
                         "title": "Razonamiento",
-                        "enlace": "MAT-3-ACTIVIDADES-PART1",
-                        "portada": "MAT-3-ACTIVIDADES-PART1.jpg"
+                        "enlace": "MAT-5-RM",
+                        "portada": "MAT-5-RM.jpg"
+                    },
+                    "3": {
+                        "title": "Texto",
+                        "enlace": "MAT-5-TEXTO",
+                        "portada": "MAT-5-TEXTO.jpg"
                     }
                 },
                 "unidades": {
@@ -1505,13 +1526,34 @@
                 }
             },
             "5": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Matemática 6",
                 "color": "#fcbf00",
                 "grado": "6",
                 "curso": "matematica",
                 "portada": "matematica6.jpg",
-                "libros": {},
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "MAT-6-ACTIVIDADES-PART1",
+                        "portada": "MAT-6-ACTIVIDADES-PART1.jpg"
+                    },
+                    "1": {
+                        "title": "Actividades 2",
+                        "enlace": "MAT-6-ACTIVIDADES-PART2",
+                        "portada": "MAT-6-ACTIVIDADES-PART2.jpg"
+                    },
+                    "2": {
+                        "title": "Razonamiento",
+                        "enlace": "MAT-6-RM",
+                        "portada": "MAT-6-RM.jpg"
+                    },
+                    "3": {
+                        "title": "Texto",
+                        "enlace": "MAT-6-TEXTO",
+                        "portada": "MAT-6-TEXTO.jpg"
+                    }
+            },
                 "unidades": {
                     "0": {
                         "id": "0",
@@ -1778,7 +1820,7 @@
         "3": {
             "materia": "Personal Social",
             "0": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Personal Social 1",
                 "color": "#d00b5f",
                 "grado": "1",
@@ -1794,7 +1836,7 @@
                 "unidades": ""
             },
             "1": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Personal Social 2",
                 "color": "#e72e2f",
                 "grado": "2",
@@ -1810,7 +1852,7 @@
                 "unidades": ""
             },
             "2": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Personal Social 3",
                 "color": "#19afc9",
                 "grado": "3",
@@ -1826,7 +1868,7 @@
                 "unidades": ""
             },
             "3": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Personal Social 4",
                 "color": "#5b268e",
                 "grado": "4",
@@ -1842,7 +1884,7 @@
                 "unidades": ""
             },
             "4": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Personal Social 5",
                 "color": "#7ac526",
                 "grado": "5",
@@ -1858,7 +1900,7 @@
                 "unidades": ""
             },
             "5": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Personal Social 6",
                 "color": "#342c8b",
                 "grado": "6",
@@ -1877,7 +1919,7 @@
         "4": {
             "materia": "Ciencia y Tecnología",
             "0": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Ciencia y Tecnología 1",
                 "color": "#d81163",
                 "grado": "1",
@@ -1893,7 +1935,7 @@
                 "unidades": ""
             },
             "1": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Ciencia y Tecnología 2",
                 "color": "#ec3330",
                 "grado": "2",
@@ -1909,7 +1951,7 @@
                 "unidades": ""
             },
             "2": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Ciencia y Tecnología 3",
                 "color": "#1eb5ca",
                 "grado": "3",
@@ -1925,7 +1967,7 @@
                 "unidades": ""
             },
             "3": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Ciencia y Tecnología 4",
                 "color": "#602791",
                 "grado": "4",
@@ -1941,7 +1983,7 @@
                 "unidades": ""
             },
             "4": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Ciencia y Tecnología 5",
                 "color": "#83cc27",
                 "grado": "5",
@@ -1957,7 +1999,7 @@
                 "unidades": ""
             },
             "5": {
-                "activo": "0",
+                "activo": "1",
                 "titulo": "Ciencia y Tecnología 6",
                 "color": "#373294",
                 "grado": "6",
@@ -1990,7 +2032,7 @@
                     },
                     "1": {
                         "title": "Workbook-1",
-                        "enlace": "ingles-primaria-workbook-1",
+                        "enlace": "ing-pri-wb-1",
                         "portada": "workbook-1.jpg"
                     },
                     "2": {
@@ -2016,7 +2058,7 @@
                     },
                     "1": {
                         "title": "Workbook-2",
-                        "enlace": "ingles-primaria-workbook-2",
+                        "enlace": "ing-pri-wb-2",
                         "portada": "workbook-2.jpg"
                     },
                     "2": {
@@ -2042,7 +2084,7 @@
                     },
                     "1": {
                         "title": "Workbook-3",
-                        "enlace": "ingles-primaria-workbook-3",
+                        "enlace": "ing-pri-wb-3",
                         "portada": "workbook-3.jpg"
                     },
                     "2": {
@@ -2068,7 +2110,7 @@
                     },
                     "1": {
                         "title": "Workbook-4",
-                        "enlace": "ingles-primaria-workbook-4",
+                        "enlace": "ing-pri-wb-4",
                         "portada": "workbook-4.jpg"
                     },
                     "2": {
@@ -2094,7 +2136,7 @@
                     },
                     "1": {
                         "title": "Workbook-5",
-                        "enlace": "ingles-primaria-workbook-5",
+                        "enlace": "ing-pri-wb-5",
                         "portada": "workbook-5.jpg"
                     },
                     "2": {
@@ -2120,7 +2162,7 @@
                     },
                     "1": {
                         "title": "Workbook-6",
-                        "enlace": "ingles-primaria-workbook-6",
+                        "enlace": "ing-pri-wb-6",
                         "portada": "workbook-6.jpg"
                     },
                     "2": {
@@ -2589,8 +2631,8 @@
                         "enlace": "INICIAL-PM5-RELIGION",
                         "portada": "INICIAL-PM5-CIENCIA.jpg"
                     }
-                }
-            },
+                },
+            
             "unidades": {
                 "0": {
                     "id": "0",
@@ -2660,7 +2702,7 @@
                     }
                 }
             }
-        }
+        }}
     },
     "Secundaria": {
         "0": {
@@ -2878,7 +2920,141 @@
                 },
                 "unidades": {}
             }
+        },
+        "2": {
+            "materia": "Comunicación",
+            "0": {
+                "activo": "0",
+                "titulo": "Comunicación 1",
+                "color": "#d70862",
+                "grado": "1",
+                "curso": "comunicacion",
+                "portada": "com1-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com1-sec-actividades",
+                        "portada": "com1-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "com1-sec-rv",
+                        "portada": "com1-sec-rv.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com1-sec-texto",
+                        "portada": "com1-sec-txt.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "1": {
+                "activo": "0",
+                "titulo": "Comunicación 2",
+                "color": "#ed2e30",
+                "grado": "2",
+                "curso": "comunicacion",
+                "portada": "com2-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com2-sec-actividades",
+                        "portada": "com2-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "com2-sec-rv",
+                        "portada": "com2-sec-rv.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com2-sec-txt",
+                        "portada": "com2-sec-txt.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "2": {
+                "activo": "0",
+                "titulo": "Comunicación 3",
+                "color": "#15b3cc",
+                "grado": "3",
+                "curso": "comunicacion",
+                "portada": "com3-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com3-sec-actividades",
+                        "portada": "com3-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "com3-sec-rv",
+                        "portada": "com3-sec-rv.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com3-sec-txt",
+                        "portada": "com3-sec-txt.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "3": {
+                "activo": "0",
+                "titulo": "Comunicación 4",
+                "color": "#5f2691",
+                "grado": "4",
+                "curso": "comunicacion",
+                "portada": "com4-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com4-sec-actividades",
+                        "portada": "com4-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "com4-sec-rv",
+                        "portada": "com4-sec-rv.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com4-sec-txt",
+                        "portada": "com4-sec-txt.jpg"
+                    }
+                },
+                "unidades": {}
+            },
+            "4": {
+                "activo": "0",
+                "titulo": "Comunicación 5",
+                "color": "#81ce29",
+                "grado": "5",
+                "curso": "comunicacion",
+                "portada": "com5-sec.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Actividades",
+                        "enlace": "com5-sec-actividades",
+                        "portada": "com5-sec-actividades.jpg"
+                    },
+                    "1": {
+                        "title": "Razonamiento Matemático",
+                        "enlace": "com5-sec-rv",
+                        "portada": "com5-sec-rv.jpg"
+                    },
+                    "2": {
+                        "title": "Texto",
+                        "enlace": "com5-sec-txt",
+                        "portada": "com5-sec-txt.jpg"
+                    }
+                },
+                "unidades": {}
+            }
         }
+
     },
     "Plan": {
         "0": {
@@ -3098,6 +3274,42 @@
                     }
                 },
                 "unidades": ""
+            },
+            "6": {
+                "activo": "0",
+                "titulo": "Guias",
+                "color": "#762794",
+                "grado": "7",
+                "curso": "obras",
+                "portada": "OBRAS-6.jpg",
+                "libros": {
+                    "0": {
+                        "title": "GUIA-AVENTURAS-DEL-PEQUENIO-ORBIS-PICTUS",
+                        "enlace": "GUIA-AVENTURAS-DEL-PEQUENIO-ORBIS-PICTUS",
+                        "portada": "CUENTO-ORBIS-2.jpg"
+                    },
+                    "1": {
+                        "title": "El pequeño Vampiro",
+                        "enlace": "OBRAS-6-EL-PEQUENO-VAMPIRO",
+                        "portada": "OBRAS-6-EL-PEQUENO-VAMPIRO.jpg"
+                    },
+                    "2": {
+                        "title": "El Principito",
+                        "enlace": "OBRAS-6-EL-PRINCIPITO",
+                        "portada": "OBRAS-6-EL-PRINCIPITO.jpg"
+                    },
+                    "3": {
+                        "title": "El Ruiseñor",
+                        "enlace": "OBRAS-6-EL-RUISENOR",
+                        "portada": "OBRAS-6-EL-RUISENOR.jpg"
+                    },
+                    "4": {
+                        "title": "Juan Salvador Gaviota",
+                        "enlace": "OBRAS-6-JUAN-SALVADOR-GAVIOTA",
+                        "portada": "OBRAS-6-JUAN-SALVADOR-GAVIOTA.jpg"
+                    }
+                },
+                "unidades": ""
             }
         },
         "1": {
@@ -3114,6 +3326,11 @@
                         "title": "Blas y Lua",
                         "enlace": "CUENTO-BLAS-Y-LUA",
                         "portada": "CUENTO-BLAS-Y-LUA.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Blas y Lua",
+                        "enlace": "GUIA-BLAS-Y-LUA",
+                        "portada": "GUIA-BLAS-Y-LUA.jpg"
                     }
                 },
                 "unidades": ""
@@ -3132,7 +3349,7 @@
                         "portada": "CUENTO-COMO-APRENDI-A-MONTAR-A-CABALLO.jpg"
                     },
                     "1": {
-                        "title": "GUIA Cómo aprendí a montar a caballo",
+                        "title": "Guía Cómo aprendí a montar a caballo",
                         "enlace": "CUENTO-COMO-APRENDI-A-MONTAR-CABALLO-GUIA",
                         "portada": "CUENTO-COMO-APRENDI-A-MONTAR-CABALLO-GUIA.jpg"
                     }
@@ -3151,6 +3368,11 @@
                         "title": "Mi abuela tiene diez años",
                         "enlace": "CUENTO-MI-ABUELA-TIENE-DIEZ-ANOS",
                         "portada": "CUENTO-MI-ABUELA-TIENE-DIEZ-ANOS.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Mi abuela tiene diez años",
+                        "enlace": "GUIA-MI-ABUELA-TIENE-DIEZ-ANIOS",
+                        "portada": "GUIA-MI-ABUELA-TIENE-DIEZ-ANIOS.jpg"
                     }
                 },
                 "unidades": ""
@@ -3167,6 +3389,11 @@
                         "title": "El regalo de Pipe",
                         "enlace": "CUENTO-EL-REGALO-DE-PIPE",
                         "portada": "CUENTO-EL-REGALO-DE-PIPE.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El regalo de Pipe",
+                        "enlace": "GUIA-EL-REGALO-DE-PIPE",
+                        "portada": "GUIA-EL-REGALO-DE-PIPE.jpg"
                     }
                 },
                 "unidades": ""
@@ -3183,6 +3410,11 @@
                         "title": "Federico & Federico",
                         "enlace": "CUENTO-FEDERICO-Y-FEDERICO",
                         "portada": "CUENTO-FEDERICO-Y-FEDERICO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Federico & Federico",
+                        "enlace": "GUIA-FEDERICO-Y-FEDERICO",
+                        "portada": "GUIA-FEDERICO-Y-FEDERICO.jpg"
                     }
                 },
                 "unidades": ""
@@ -3199,6 +3431,11 @@
                         "title": "Momentos de azúcar",
                         "enlace": "CUENTO-MOMENTOS-DE-AZUCAR",
                         "portada": "CUENTO-MOMENTOS-DE-AZUCAR.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Momentos de azúcar",
+                        "enlace": "GUIA-MOMENTOS-DE-AZUCAR",
+                        "portada": "GUIA-MOMENTOS-DE-AZUCAR.jpg"
                     }
                 },
                 "unidades": ""
@@ -3215,6 +3452,11 @@
                         "title": "El cuento que tenía miedo",
                         "enlace": "CUENTO-EL-CUENTO-QUE-TENIA-MIEDO",
                         "portada": "CUENTO-EL-CUENTO-QUE-TENIA-MIEDO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El cuento que tenía miedo",
+                        "enlace": "GUIA-EL-CUENTO-QUE-TENIA-MIEDO",
+                        "portada": "GUIA-EL-CUENTO-QUE-TENIA-MIEDO.jpg"
                     }
                 },
                 "unidades": ""
@@ -3231,13 +3473,18 @@
                         "title": "Cuentos para dormir un elefante",
                         "enlace": "CUENTO-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE",
                         "portada": "CUENTO-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Cuentos para dormir un elefante",
+                        "enlace": "GUIA-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE",
+                        "portada": "GUIA-CUENTOS-PARA-DORMIR-A-UN-ELEFANTE.jpg"
                     }
                 },
                 "unidades": ""
             }
         },
         "2": {
-            "materia": "",
+            "materia": "-",
             "0": {
                 "activo": "0",
                 "titulo": "A Margarita Debayle",
@@ -3250,6 +3497,11 @@
                         "title": "A Margarita Debayle",
                         "enlace": "CUENTO-A-MARGARITA-DEBAYLE",
                         "portada": "CUENTO-A-MARGARITA-DEBAYLE.jpg"
+                    },
+                    "1": {
+                        "title": "Guía A Margarita Debayle",
+                        "enlace": "GUIA-MARGARITA-DEBAYLE",
+                        "portada": "GUIA-MARGARITA-DEBAYLE.jpg"
                     }
                 },
                 "unidades": ""
@@ -3266,6 +3518,11 @@
                         "title": "Entre pecas y lentejas",
                         "enlace": "CUENTO-ENTRE-PECAS-Y-LENTEJAS",
                         "portada": "CUENTO-ENTRE-PECAS-Y-LENTEJAS.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Entre pecas y lentejas",
+                        "enlace": "GUIA-ENTRE-PECAS-Y-LENTEJAS",
+                        "portada": "GUIA-ENTRE-PECAS-Y-LENTEJAS.jpg"
                     }
                 },
                 "unidades": ""
@@ -3282,6 +3539,11 @@
                         "title": "El vendedor de sombrillas",
                         "enlace": "CUENTO-EL-VENDEDOR-DE-SOMBRILLAS",
                         "portada": "CUENTO-EL-VENDEDOR-DE-SOMBRILLAS.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El vendedor de sombrillas",
+                        "enlace": "GUIA-EL-VENDEDOR-DE-SOMBRILLAS",
+                        "portada": "GUIA-EL-VENDEDOR-DE-SOMBRILLAS.jpg"
                     }
                 },
                 "unidades": ""
@@ -3298,6 +3560,11 @@
                         "title": "Maria Ite y su vestido rojo",
                         "enlace": "CUENTO-MARIA-ITE",
                         "portada": "CUENTO-MARIA-ITE.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Maria Ite y su vestido rojo",
+                        "enlace": "GUIA-MARIA-ITE",
+                        "portada": "GUIA-MARIA-ITE.jpg"
                     }
                 },
                 "unidades": ""
@@ -3314,6 +3581,11 @@
                         "title": "La costurera y el hilo de agua",
                         "enlace": "CUENTO-LA-COSTURERA",
                         "portada": "CUENTO-LA-COSTURERA.jpg"
+                    },
+                    "1": {
+                        "title": "Guía La costurera y el hilo de agua",
+                        "enlace": "GUIA-LA-COSTURERA",
+                        "portada": "GUIA-LA-COSTURERA.jpg"
                     }
                 },
                 "unidades": ""
@@ -3330,6 +3602,11 @@
                         "title": "De ballenas y de mares",
                         "enlace": "CUENTO-DE-BALLENAS-Y-DE-MARES",
                         "portada": "CUENTO-DE-BALLENAS-Y-DE-MARES.jpg"
+                    },
+                    "1": {
+                        "title": "Guía De ballenas y de mares",
+                        "enlace": "GUIA-DE-BALLENAS-Y-DE-MARES",
+                        "portada": "GUIA-DE-BALLENAS-Y-DE-MARES.jpg"
                     }
                 },
                 "unidades": ""
@@ -3346,6 +3623,11 @@
                         "title": "Un acto de magia",
                         "enlace": "CUENTO-UN-ACTO-DE-MAGIA",
                         "portada": "CUENTO-UN-ACTO-DE-MAGIA.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Un acto de magia",
+                        "enlace": "GUIA-UN-ACTO-DE-MAGIA",
+                        "portada": "GUIA-UN-ACTO-DE-MAGIA.jpg"
                     }
                 },
                 "unidades": ""
@@ -3362,13 +3644,18 @@
                         "title": "Tunga Catunga",
                         "enlace": "CUENTO-TUNGA-CATUNGA",
                         "portada": "CUENTO-TUNGA-CATUNGA.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Tunga Catunga",
+                        "enlace": "GUIA-TUNGA-CATUNGA",
+                        "portada": "GUIA-TUNGA-CATUNGA.jpg"
                     }
                 },
                 "unidades": ""
             }
         },
         "3": {
-            "materia": "",
+            "materia": "-",
             "0": {
                 "activo": "0",
                 "titulo": "La Bruja Trik",
@@ -3381,6 +3668,11 @@
                         "title": "La Bruja Trik",
                         "enlace": "CUENTO-LA-BRUJITA-TRIK",
                         "portada": "CUENTO-LA-BRUJITA-TRIK.jpg"
+                    },
+                    "1": {
+                        "title": "Guía La Bruja Trik",
+                        "enlace": "GUIA-LA-BRUJITA-TRIK",
+                        "portada": "GUIA-LA-BRUJITA-TRIK.jpg"
                     }
                 },
                 "unidades": ""
@@ -3397,6 +3689,11 @@
                         "title": "El Genio de los terremotos",
                         "enlace": "CUENTO-EL-SENOR-DE-LOS-TERREMOTOS",
                         "portada": "CUENTO-EL-SENOR-DE-LOS-TERREMOTOS.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El Genio de los terremotos",
+                        "enlace": "GUIA-EL-SENOR-DE-LOS-TERREMOTOS",
+                        "portada": "GUIA-EL-SENOR-DE-LOS-TERREMOTOS.jpg"
                     }
                 },
                 "unidades": ""
@@ -3413,6 +3710,11 @@
                         "title": "Se enloquecieron los números",
                         "enlace": "CUENTO-SE-ENLOQUECIERON-LOS-NUMEROS",
                         "portada": "CUENTO-SE-ENLOQUECIERON-LOS-NUMEROS.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Se enloquecieron los números",
+                        "enlace": "GUIA-SE-ENLOQUECIERON-LOS-NUMEROS",
+                        "portada": "GUIA-SE-ENLOQUECIERON-LOS-NUMEROS.jpg"
                     }
                 },
                 "unidades": ""
@@ -3429,6 +3731,11 @@
                         "title": "Una semana con el Elfo del sueño",
                         "enlace": "CUENTO-UNA SEMANA-CON-EL-ELFO-DEL-SUENO",
                         "portada": "CUENTO-UNA SEMANA-CON-EL-ELFO-DEL-SUENO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Una semana con el Elfo del sueño",
+                        "enlace": "GUIA-UNA-SEMANA-CON-EL-ELFO",
+                        "portada": "GUIA-UNA-SEMANA-CON-EL-ELFO.jpg"
                     }
                 },
                 "unidades": ""
@@ -3447,7 +3754,7 @@
                         "portada": "CUENTO-EL-GALLO-DEL-OLVIDO.jpg"
                     },
                     "1": {
-                        "title": "Guia El Gallo del olvido",
+                        "title": "Guía El Gallo del olvido",
                         "enlace": "CUENTO-EL-GALLO-DEL-OLVIDO-GUIA",
                         "portada": "CUENTO-EL-GALLO-DEL-OLVIDO-GUIA.jpg"
                     }
@@ -3466,6 +3773,11 @@
                         "title": "La pepita de zapallo",
                         "enlace": "CUENTO-LA-PEPITA-DE-ZAPALLO",
                         "portada": "CUENTO-LA-PEPITA-DE-ZAPALLO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía La pepita de zapallo",
+                        "enlace": "GUIA-LA-PEPITA-DE-ZAPALLO",
+                        "portada": "GUIA-LA-PEPITA-DE-ZAPALLO.jpg"
                     }
                 },
                 "unidades": ""
@@ -3482,29 +3794,18 @@
                         "title": "El Principe Iván y el Pájaro de fuego",
                         "enlace": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO",
                         "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg"
-                    }
-                },
-                "unidades": ""
-            },
-            "7": {
-                "activo": "0",
-                "titulo": "Aventuras del pez negro",
-                "color": "#762794",
-                "grado": "24",
-                "curso": "superpoder",
-                "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg",
-                "libros": {
-                    "0": {
-                        "title": "El Principe Iván y el Pájaro de fuego",
-                        "enlace": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO",
-                        "portada": "CUENTO-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El Principe Iván y el Pájaro de fuego",
+                        "enlace": "GUIA-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO",
+                        "portada": "GUIA-EL-PRINCIPE-IVAN-Y-EL-PAJARO-DE-FUEGO.jpg"
                     }
                 },
                 "unidades": ""
             }
         },
         "4": {
-            "materia": "",
+            "materia": "-",
             "0": {
                 "activo": "0",
                 "titulo": "Locuras en Villa Disparate",
@@ -3517,6 +3818,11 @@
                         "title": "Locuras en Villa Disparate",
                         "enlace": "CUENTO-LOCURAS-EN-LA-VILLA-DISPARATE",
                         "portada": "CUENTO-LOCURAS-EN-LA-VILLA-DISPARATE.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Locuras en Villa Disparate",
+                        "enlace": "GUIA-LOCURAS-EN-VILLA-DESPARATE",
+                        "portada": "GUIA-LOCURAS-EN-VILLA-DESPARATE.jpg"
                     }
                 },
                 "unidades": ""
@@ -3533,6 +3839,11 @@
                         "title": "Contaba mi Papá",
                         "enlace": "CUENTO-CONTABA-MI-PAPA",
                         "portada": "CUENTO-CONTABA-MI-PAPA.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Contaba mi Papá",
+                        "enlace": "GUIA-CONTABA-MI-PAPA",
+                        "portada": "GUIA-CONTABA-MI-PAPA.jpg"
                     }
                 },
                 "unidades": ""
@@ -3546,9 +3857,14 @@
                 "portada": "CUENTO-CERVANTES-AVENTURAS-DE-NOVELAS.jpg",
                 "libros": {
                     "0": {
-                        "title": "Contaba mi Papá",
+                        "title": "Cervantes, aventuras de novelas",
                         "enlace": "CUENTO-CERVANTES-AVENTURAS-DE-NOVELAS",
                         "portada": "CUENTO-CERVANTES-AVENTURAS-DE-NOVELAS.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Cervantes, aventuras de novelas",
+                        "enlace": "GUIA-CERVANTES-AVENTURAS-DE-NOVELAS",
+                        "portada": "GUIA-CERVANTES-AVENTURAS-DE-NOVELAS.jpg"
                     }
                 },
                 "unidades": ""
@@ -3564,6 +3880,11 @@
                     "0": {
                         "title": "El pequeño Orbis Pictus",
                         "enlace": "CUENTO-ORBIS-2",
+                        "portada": "CUENTO-ORBIS-2.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El pequeño Orbis Pictus",
+                        "enlace": "GUIA-EL-PEQUENIO-ORBIS",
                         "portada": "CUENTO-ORBIS-2.jpg"
                     }
                 },
@@ -3581,56 +3902,141 @@
                         "title": "Seminarios del miedo",
                         "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO",
                         "portada": "CUENTOS-SEMANARIO-DEL-MIEDO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Seminarios del miedo",
+                        "enlace": "GUIA-SEMANARIO-DEL-MIEDO-I",
+                        "portada": "GUIA-SEMANARIO-DEL-MIEDO-I.jpg"
                     }
                 },
                 "unidades": ""
             },
             "5": {
                 "activo": "0",
-                "titulo": "Seminarios del miedo 2",
+                "titulo": "Los Poderes de Antonina",
                 "color": "#762794",
                 "grado": "30",
                 "curso": "superpoder",
-                "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg",
+                "portada": "CUENTO-LOS-PODERES-DE-ANTONIA.jpg",
                 "libros": {
                     "0": {
-                        "title": "Seminarios del miedo 2",
-                        "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO-II",
-                        "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg"
-                    }
-                },
-                "unidades": ""
-            },
-            "6": {
-                "activo": "0",
-                "titulo": "Seminarios del miedo 2",
-                "color": "#762794",
-                "grado": "30",
-                "curso": "superpoder",
-                "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg",
-                "libros": {
-                    "0": {
-                        "title": "Seminarios del miedo 2",
-                        "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO-II",
-                        "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg"
+                        "title": "Los Poderes de Antonina",
+                        "enlace": "CUENTO-LOS-PODERES-DE-ANTONIA",
+                        "portada": "CUENTO-LOS-PODERES-DE-ANTONIA.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Los Poderes de Antonina",
+                        "enlace": "GUIA-LOS-PODERES-DE-ANTONINA",
+                        "portada": "GUIA-LOS-PODERES-DE-ANTONINA.jpg"
                     }
                 },
                 "unidades": ""
             }
+            
         },
         "5": {
+            "materia": "-",
             "0": {
                 "activo": "0",
-                "titulo": "",
+                "titulo": "Seminarios del miedo 2",
                 "color": "#762794",
-                "grado": "30",
+                "grado": "31",
                 "curso": "superpoder",
                 "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg",
                 "libros": {
                     "0": {
-                        "title": "",
+                        "title": "Seminarios del miedo 2",
                         "enlace": "CUENTOS-SEMANARIO-DEL-MIEDO-II",
                         "portada": "CUENTOS-SEMANARIO-DEL-MIEDO-II.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Seminarios del miedo 2",
+                        "enlace": "GUIA-SEMANARIO-DEL-MIEDO-II",
+                        "portada": "GUIA-SEMANARIO-DEL-MIEDO-II.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "1": {
+                "activo": "0",
+                "titulo": "Hugo, Viajero del espacio",
+                "color": "#762794",
+                "grado": "32",
+                "curso": "superpoder",
+                "portada": "CUENTO-HUGO-VIAJERO-DEL-ESPACIO.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Hugo, Viajero del Espacio",
+                        "enlace": "CUENTO-HUGO-VIAJERO-DEL-ESPACIO",
+                        "portada": "CUENTO-HUGO-VIAJERO-DEL-ESPACIO.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Hugo, Viajero del Espacio",
+                        "enlace": "GUIA-HUGO-VIAJERO-DEL-ESPACIO",
+                        "portada": "GUIA-HUGO-VIAJERO-DEL-ESPACIO.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "2": {
+                "activo": "0",
+                "titulo": "Struff",
+                "color": "#762794",
+                "grado": "33",
+                "curso": "superpoder",
+                "portada": "CUENTO-STRUFF.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Struff",
+                        "enlace": "CUENTO-STRUFF",
+                        "portada": "CUENTO-STRUFF.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Struff",
+                        "enlace": "GUIA-STRUFF",
+                        "portada": "GUIA-STRUFF.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "3": {
+                "activo": "0",
+                "titulo": "El Mundo de Willy",
+                "color": "#762794",
+                "grado": "34",
+                "curso": "superpoder",
+                "portada": "CUENTO-EL-MUNDO-DE-WILLY.jpg",
+                "libros": {
+                    "0": {
+                        "title": "El Mundo de Willy",
+                        "enlace": "CUENTO-EL-MUNDO-DE-WILLY",
+                        "portada": "CUENTO-EL-MUNDO-DE-WILLY.jpg"
+                    },
+                    "1": {
+                        "title": "Guía El Mundo de Willy",
+                        "enlace": "GUIA-EL-MUNDO-DE-WILLY",
+                        "portada": "GUIA-EL-MUNDO-DE-WILLY.jpg"
+                    }
+                },
+                "unidades": ""
+            },
+            "4": {
+                "activo": "0",
+                "titulo": "Las peligrosísimas y emocionantes aventuras del pequeño Orbis Pictus",
+                "color": "#762794",
+                "grado": "35",
+                "curso": "superpoder",
+                "portada": "CUENTO-ORBIS-2.jpg",
+                "libros": {
+                    "0": {
+                        "title": "Las peligrosísimas y emocionantes aventuras del pequeño Orbis Pictus",
+                        "enlace": "CUENTO-ORBIS-2",
+                        "portada": "CUENTO-ORBIS-2.jpg"
+                    },
+                    "1": {
+                        "title": "Guía Las peligrosísimas y emocionantes aventuras del pequeño Orbis Pictus",
+                        "enlace": "GUIA-AVENTURAS-DEL-PEQUENIO-ORBIS-PICTUS",
+                        "portada": "GUIA-AVENTURAS-DEL-PEQUENIO-ORBIS-PICTUS.jpg"
                     }
                 },
                 "unidades": ""

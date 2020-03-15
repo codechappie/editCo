@@ -1,31 +1,39 @@
 document.addEventListener("DOMContentLoaded", function (event) {
     const url = '../data/data.json';
-    let level = document.getElementById("levelCourse");
-    let preCont = document.getElementById("contePre");
-
+    let CardInfo = document.querySelector(".cardInformation");
+    // console.log(CardInfo)
     fetch(url, {
 
     }).then(response => response.json())
         .then(result => {
             
             let dat = Object.keys(result);
-            
+            let data;
+            let eleme;
+            dat.forEach((eleme) => {
+                CardInfo.innerHTML+=`<h2>${eleme}</h2>`;
+                data = result[eleme];  
+                let countda = 0;
+                for (let index = 0; index < Object.keys(data).length; index++) {  
 
-            dat.forEach((eleme,index) => {
-                level.innerHTML+=`<h2>${eleme}</h2>`;
-                // console.log(result['Primaria'])
-                let data = result[eleme];  
-                  
-                for (let index = 0; index < Object.keys(data).length; index++) {
+                    // let cardLevel = document.querySelectorAll(".cardLevel");
+                    // console.log(data[index]['materia'])
+                    CardInfo.innerHTML+=`<h3>${data[index]['materia']}</h3>`;
+                    CardInfo.innerHTML+=`<fieldset> `;
+                    for (let indexGrados = 0; indexGrados < parseInt(Object.keys(data[index]).length) - 1; indexGrados++) {
+
+                        CardInfo.innerHTML+=`
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="customCheck${countda}" >
+                                <label class="custom-control-label" cursoAttr="${data[index][indexGrados]['curso']}" gradoCursoAttr="${data[index][indexGrados]['grado']}" for="customCheck${countda}">${data[index][indexGrados]['titulo']}</label>
+                            </div>`;
+                            countda++;
+                    }
                     
-                    level.innerHTML+=`
-                    <h5>${data[index]['materia']}</h5>
-                    <a>${JSON.stringify(data[index][index], null, 2)}</a>
-                    `;
-                    
+                    CardInfo.innerHTML+=`</fieldset>`;
+
                 }
-
-
             })
+        
         });
 });
