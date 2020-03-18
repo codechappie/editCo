@@ -1,3 +1,12 @@
-.borderCustomized{
-    border: 1px solid #333;
+.coti{
+    border: 1px solid rgb(240, 240, 240);
+    border-right: none;
+    border-left: none;
+    padding: 20px 0px;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    justify-items: center;
+}
+.custom-checkbox{
+    padding: 10px 0px;
 }
